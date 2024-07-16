@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "6667fa373212146b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dfd465bbdea7d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0369689db43a1036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "como ler livros.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70f070634f2a8750",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5306a2ed2af78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734a8421027abb30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "455f3f1d15c71c5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MOC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "febe9b5aa772853d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5422daa486c227a0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ace26239e8ccc29a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a6adce7a0c99a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd606cefe4d61b06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "como ler livros.md"
+              }
+            }
+          },
+          {
+            "id": "3bffc0a66063613c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b6e6cb284f414e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "como ler livros.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9d6944f0c4a2cdd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5ab20cca913f311d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "como ler livros.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "938b596e203db5ec",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "04380ba3276e82c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69fa1623094c82a1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "como ler livros.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4296780868190115,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0369689db43a1036",
+  "lastOpenFiles": [
+    "03 - courses",
+    "Sistema de Estudo.md",
+    "como ler livros.md",
+    "02 - log/2024-06-30 05-14.md",
+    "leitura.md",
+    "objetivos.md",
+    "02 - log/2024-06-30 05-04.md",
+    "99 - meta/templates/kolb's cycle.md",
+    "03 - courses/icanstudy/marginal gains.md",
+    "03 - courses/icanstudy/TÉCNICAS.md",
+    "03 - courses/icanstudy/técnicas de interleaving.md",
+    "03 - courses/icanstudy/técnicas de retrieval.md",
+    "03 - courses/icanstudy/the mind in the middle - A practical guide to priming and automaticity research.md",
+    "icanstudy/tomando notas.md",
+    "+/cc.md",
+    "HOME.md",
+    "+",
+    "99 - meta/templates/log (template).md",
+    "02 - log/2024-06-30 04-46.md",
+    "02 - log",
+    "leitura.md",
+    "VAGA CODEMINER42.md",
+    "Livro 1 - Como ler Livros.md",
+    "01 - faculdade/000 - MOC BACHAREL EM TÉCNOLOGIA DA INFORMAÇÃO.md",
+    "ED-202406271859.excalidraw.md",
+    "asdasda.md",
+    "weq.md",
+    "ciência da computação.md",
+    "03 - courses/icanstudy/BarghChartrand2000.pdf",
+    "01 - faculdade",
+    "akitando",
+    "sync.sh~",
+    "sync.sh",
+    "learning",
+    "99 - meta/backup",
+    "Untitled 1",
+    "Pasted image 20240522161129.png",
+    "Pasted image 20240522161110.png",
+    "Pasted image 20240521161237.png",
+    "Pasted image 20240521161115.png",
+    "Pasted image 20240521161056.png",
+    "Pasted image 20240521161027.png",
+    "99 - meta/Images/Pasted image 20240521074501.png",
+    "99 - meta/Images/Pasted image 20240521074419.png",
+    "99 - meta/Images/Pasted image 20240521074408.png",
+    "99 - meta/Images/Pasted image 20240521074318.png"
+  ]
+}

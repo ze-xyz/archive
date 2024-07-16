@@ -1,0 +1,13 @@
+- introdução
+- montaigne
+- descartes
+- bacon
+- hume
+- tomas hobbes
+- jean-jaques rouseau
+- kant
+	- epistemologia
+	- ética
+- hegel
+- schopenhauer
+- nietzche

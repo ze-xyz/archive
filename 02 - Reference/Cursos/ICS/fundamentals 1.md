@@ -1,0 +1,6 @@
+- [[spacing, interleaving and retrieval]]
+	- [[como fazer revisões]]
+	- [[técnicas de interleaving]]
+	- [[técnicas de retrieval]]
+- [[02 - Reference Notes/Curso/icanstudy/marginal gains|marginal gains]]
+- curriculum overview

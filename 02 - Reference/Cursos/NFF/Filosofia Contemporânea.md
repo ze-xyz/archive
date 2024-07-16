@@ -1,0 +1,5 @@
+- introdução
+- heidegger
+- wittgenstein
+- teoria crítica (escola de franktfurt)
+- hebermas e rorty

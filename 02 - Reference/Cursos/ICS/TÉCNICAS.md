@@ -1,0 +1,16 @@
+- técnicas de pre estudo
+	- chunks
+- técnicas de revisão
+	- revisar a cada 1 semana e a cada 1 mes
+		- em cada revisão fazer `full recall`
+- técnicas de estudo
+	- anotações não lineares
+		- mapas mentais
+		- simbolos
+		- esquemas
+	- tentar estudar de vários angulos
+- técnicas de foco
+	- BEDS-H
+- técnicas de aprimoramento
+	- marginal gains
+	- kolbs

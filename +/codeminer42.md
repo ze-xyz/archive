@@ -1,0 +1,9 @@
+- Ruby on Rails
+- Bancos de Dados
+- CI/CD Testes Automatizados
+- HTML CSS Javascript
+- Inglês
+- Infraestrutura, Heroku AWS
+- Bancos não relacionais
+- Arquitetura de Software
+- Frameworks UI, React, React Native, Vue ou Angular

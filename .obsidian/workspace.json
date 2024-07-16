@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "6667fa373212146b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d1d88e4c6a14e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e49224142eb4a49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - LOG/2024-07-16.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70f070634f2a8750",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5306a2ed2af78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734a8421027abb30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "455f3f1d15c71c5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#semestre01",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "febe9b5aa772853d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5422daa486c227a0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9fca053f7fba5364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100e53eda19693e0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ace26239e8ccc29a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a6adce7a0c99a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd606cefe4d61b06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - LOG/2024-07-16.md"
+              }
+            }
+          },
+          {
+            "id": "3bffc0a66063613c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b6e6cb284f414e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - LOG/2024-07-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9d6944f0c4a2cdd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5ab20cca913f311d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - LOG/2024-07-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "938b596e203db5ec",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c8b01c88a9eb3c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01 - LOG/2024-07-16.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "028a4a5e3aa1c314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77fe0747641dfe35",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e49224142eb4a49b",
+  "lastOpenFiles": [
+    "bullet journal.md",
+    "TESTE.canvas",
+    "dia.md",
+    "02 - Reference/Cursos/ICS/cronograma de estudo.md",
+    "REVISÃO MÊS.md",
+    "r week.md",
+    "02 - Reference/Cursos/ICS/técnicas de retrieval.md",
+    "FIM DE CADA DIA.md",
+    "02 - Reference/Cursos/ICS/como fazer revisões.md",
+    "02 - Reference/Cursos/ICS/fundamentals 1.md",
+    "02 - Reference/Cursos/ICS/técnicas de interleaving.md",
+    "00 - MOC/MOC - ICANSTUDY.md",
+    "HOME.md",
+    "03 - Permanent/full recall.md",
+    "03 - Permanent/revisão.md",
+    "p estud.md",
+    "02 - Reference/Cursos/ICS/fundamentals 2.md",
+    "ano.md",
+    "01 - LOG/2024-07-16.md",
+    "01 - LOG/2024-07-15.md",
+    "00 - MOC/MOC - ESCRITA CRÍTICA.md",
+    "00 - MOC/MOC - COMPUTER SCIENCE.md",
+    "cr6.100b.md",
+    "programação.md",
+    "CS6.100B.md",
+    "SHZE0001.md",
+    "05 - Projects/Blog",
+    "05 - Projects/Faculdade",
+    "02 - Reference/Video",
+    "05 - Projects/Faculdade/1 Semestre/Projetos e métodos para a produção de conhecimento",
+    "05 - Projects/Faculdade/1 Semestre/Matemática Básica",
+    "05 - Projects/Faculdade/1 Semestre/Inglês",
+    "05 - Projects/Faculdade/1 Semestre/Pensamento Computacional",
+    "05 - Projects/Faculdade/1 Semestre/Leitura e Produção de Textos",
+    "05 - Projects/Faculdade/1 Semestre/Ética, Cidadania e Sociedade",
+    "05 - Projects/Faculdade/6 Semestre",
+    "99 - meta/Images/image_2021-06-21_12-33-11.png",
+    "99 - meta/Images/Start With How To Read A Book v2.png",
+    "99 - meta/Images/Pasted image 20240521074501.png",
+    "99 - meta/Images/Pasted image 20240521074419.png",
+    "99 - meta/Images/Pasted image 20240521074408.png",
+    "99 - meta/Images/Pasted image 20240521074318.png",
+    "99 - meta/Images/Pasted image 20240521074232.png",
+    "99 - meta/Images/Pasted image 20240521074122.png",
+    "99 - meta/Images/Pasted image 20240521074115.png",
+    "99 - meta/Images/Pasted image 20240521073948.png"
+  ]
+}

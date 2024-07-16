@@ -1,0 +1,17 @@
+{
+  "accentColor": "#007aff",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Latin Modern Mono Light 12",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "extended-colorschemes",
+    "Minimal"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 19,
+  "interfaceFontFamily": "Latin Modern Mono 12",
+  "monospaceFontFamily": "Latin Modern Mono 12",
+  "nativeMenus": false,
+  "showViewHeader": false,
+  "theme": "moonstone"
+}

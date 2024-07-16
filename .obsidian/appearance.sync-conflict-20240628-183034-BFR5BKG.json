@@ -1,0 +1,17 @@
+{
+  "accentColor": "#0077ff",
+  "cssTheme": "Minimal",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Minimal",
+    "extended-colorschemes"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 20,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "theme": "obsidian"
+}

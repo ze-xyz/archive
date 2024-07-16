@@ -1,0 +1,26 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99 - meta/00 - Images",
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "source",
+  "tabSize": 4,
+  "livePreview": true,
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": false,
+  "rightToLeft": false,
+  "showRibbon": false
+}

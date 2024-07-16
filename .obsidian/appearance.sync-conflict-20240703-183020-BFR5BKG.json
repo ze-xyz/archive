@@ -1,0 +1,17 @@
+{
+  "accentColor": "#0077ff",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Courier New",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Minimal",
+    "extended-colorschemes"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Courier New",
+  "monospaceFontFamily": "Courier New",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "theme": "obsidian"
+}

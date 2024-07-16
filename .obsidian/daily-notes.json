@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "01 - LOG",
+  "template": "99 - meta/templates/log (template)",
+  "autorun": true
+}

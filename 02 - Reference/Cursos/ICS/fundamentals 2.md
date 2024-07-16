@@ -1,0 +1,7 @@
+- [[o que fazer na prova]]
+- [[o que fazer em aula]]
+- [[tomando notas]]
+- [[cronograma de estudo]]
+- [[como fazer revisões]]
+- [[aprendizagem mecânica - decoreba]]
+- fundamentals checkpoint video

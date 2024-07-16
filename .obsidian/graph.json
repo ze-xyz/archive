@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"00 - MOC\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 31487
+      }
+    },
+    {
+      "query": "path:\"01 - LOG\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"02 - Permanent\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15073280
+      }
+    },
+    {
+      "query": "path:\"05 - Projects\" - Projects\"   ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"05 - Projects/Faculdade\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3108656
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.23408654885182478,
+  "close": false
+}

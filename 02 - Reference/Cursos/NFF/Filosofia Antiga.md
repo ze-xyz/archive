@@ -1,0 +1,10 @@
+- pré socráticos
+	- heráclio e parmênedis
+- sócrates e os sofistas
+- platão
+- aristóteles
+	- metafísica
+	- ética
+- estoicismo e epicurismo
+- cinismo e ceticismo
+- panorama da filosofia antiga
