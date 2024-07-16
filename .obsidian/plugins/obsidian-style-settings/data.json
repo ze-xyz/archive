@@ -1,5 +1,5 @@
 {
-  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@styled-scrollbars": true,
   "perso@@theme-rounded": false,
   "perso@@other-active-tab": false,
   "perso@@theme-black": false,
@@ -118,5 +118,16 @@
   "minimal-style@@bg2@@light": "#F4F0E5",
   "minimal-style@@base@@light": "#F4F0E5",
   "minimal-style@@tx1@@light": "#000000",
-  "minimal-style@@tx1@@dark": "#FFFFFF"
+  "minimal-style@@tx1@@dark": "#FFFFFF",
+  "primary-theme@@zero-tab-anim": true,
+  "primary-theme@@zero-popup-popdown": true,
+  "primary-theme@@interface_editor-bg": "editor-bgpattern-dotgrid",
+  "primary-theme@@bold-color@@light": "#000000",
+  "primary-theme@@bold-color@@dark": "#FFFFFF",
+  "primary-theme@@italic-color@@light": "#000000",
+  "primary-theme@@italic-color@@dark": "#FFFFFF",
+  "primary-theme@@link-unresolved-color@@dark": "#007AFF",
+  "primary-theme@@link-unresolved-color@@light": "#007AFF",
+  "minimal-style@@checkbox-shape": "checkbox-square",
+  "minimal-style@@minimal-strike-lists": true
 }
