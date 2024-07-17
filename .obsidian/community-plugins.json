@@ -15,5 +15,6 @@
   "templater-obsidian",
   "update-time-on-edit",
   "calendar",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "checkbox-styling-helper"
 ]

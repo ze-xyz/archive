@@ -1,0 +1,100 @@
+{
+  "theme": "Minimal",
+  "icons": [
+    {
+      "name": "canceled",
+      "icon": "➖",
+      "value": "- [-] "
+    },
+    {
+      "name": "forwarded",
+      "icon": "➤",
+      "value": "- [>] "
+    },
+    {
+      "name": "scheduling",
+      "icon": "📅",
+      "value": "- [<] "
+    },
+    {
+      "name": "question",
+      "icon": "❓",
+      "value": "- [?] "
+    },
+    {
+      "name": "important",
+      "icon": "❗️",
+      "value": "- [!] "
+    },
+    {
+      "name": "star",
+      "icon": "⭐️",
+      "value": "- [*] "
+    },
+    {
+      "name": "quote",
+      "icon": "\"",
+      "value": "- [\"] "
+    },
+    {
+      "name": "location",
+      "icon": "📍",
+      "value": "- [l] "
+    },
+    {
+      "name": "bookmark",
+      "icon": "🔖",
+      "value": "- [b] "
+    },
+    {
+      "name": "information",
+      "icon": "ℹ️",
+      "value": "- [i] "
+    },
+    {
+      "name": "savings",
+      "icon": "💲",
+      "value": "- [S] "
+    },
+    {
+      "name": "idea",
+      "icon": "💡",
+      "value": "- [I] "
+    },
+    {
+      "name": "pros",
+      "icon": "👍",
+      "value": "- [p] "
+    },
+    {
+      "name": "cons",
+      "icon": "👎",
+      "value": "- [c] "
+    },
+    {
+      "name": "fire",
+      "icon": "🔥",
+      "value": "- [f] "
+    },
+    {
+      "name": "key",
+      "icon": "🔑",
+      "value": "- [k] "
+    },
+    {
+      "name": "win",
+      "icon": "🎂",
+      "value": "- [w] "
+    },
+    {
+      "name": "up",
+      "icon": "📈",
+      "value": "- [u] "
+    },
+    {
+      "name": "down",
+      "icon": "📉",
+      "value": "- [d] "
+    }
+  ]
+}

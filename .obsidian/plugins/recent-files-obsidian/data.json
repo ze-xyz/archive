@@ -1,36 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "ESPIRITUAL",
+      "path": "ESPIRITUAL.md"
+    },
+    {
+      "basename": "backbone",
+      "path": "backbone.md"
+    },
+    {
+      "basename": "pilares",
+      "path": "pilares.md"
+    },
+    {
+      "basename": "2024-07-17",
+      "path": "01 - LOG/2024-07-17.md"
+    },
+    {
       "basename": "2024-07-16",
       "path": "01 - LOG/2024-07-16.md"
     },
     {
+      "basename": "2024-07-15",
+      "path": "01 - LOG/2024-07-15.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
       "basename": "bullet journal",
-      "path": "bullet journal.md"
+      "path": "05 - Projects/bullet journal/bullet journal.md"
+    },
+    {
+      "basename": "REVISÃO MÊS",
+      "path": "05 - Projects/bullet journal/REVISÃO MÊS.md"
     },
     {
       "basename": "TESTE",
-      "path": "TESTE.canvas"
+      "path": "05 - Projects/bullet journal/TESTE.canvas"
+    },
+    {
+      "basename": "r week",
+      "path": "05 - Projects/bullet journal/r week.md"
+    },
+    {
+      "basename": "p estud",
+      "path": "05 - Projects/bullet journal/p estud.md"
+    },
+    {
+      "basename": "FIM DE CADA DIA",
+      "path": "05 - Projects/bullet journal/FIM DE CADA DIA.md"
     },
     {
       "basename": "cronograma de estudo",
       "path": "02 - Reference/Cursos/ICS/cronograma de estudo.md"
     },
     {
-      "basename": "REVISÃO MÊS",
-      "path": "REVISÃO MÊS.md"
-    },
-    {
-      "basename": "r week",
-      "path": "r week.md"
-    },
-    {
       "basename": "técnicas de retrieval",
       "path": "02 - Reference/Cursos/ICS/técnicas de retrieval.md"
-    },
-    {
-      "basename": "FIM DE CADA DIA",
-      "path": "FIM DE CADA DIA.md"
     },
     {
       "basename": "como fazer revisões",
@@ -49,10 +77,6 @@
       "path": "00 - MOC/MOC - ICANSTUDY.md"
     },
     {
-      "basename": "HOME",
-      "path": "HOME.md"
-    },
-    {
       "basename": "full recall",
       "path": "03 - Permanent/full recall.md"
     },
@@ -61,20 +85,8 @@
       "path": "03 - Permanent/revisão.md"
     },
     {
-      "basename": "p estud",
-      "path": "p estud.md"
-    },
-    {
       "basename": "fundamentals 2",
       "path": "02 - Reference/Cursos/ICS/fundamentals 2.md"
-    },
-    {
-      "basename": "ano",
-      "path": "ano.md"
-    },
-    {
-      "basename": "2024-07-15",
-      "path": "01 - LOG/2024-07-15.md"
     },
     {
       "basename": "MOC - FACULDADE",
@@ -183,18 +195,6 @@
     {
       "basename": "SOC100-W3",
       "path": "05 - Projects/Faculdade/SOC100-W3.md"
-    },
-    {
-      "basename": "SOC100-W4",
-      "path": "05 - Projects/Faculdade/SOC100-W4.md"
-    },
-    {
-      "basename": "SOC100-W2",
-      "path": "05 - Projects/Faculdade/SOC100-W2.md"
-    },
-    {
-      "basename": "SOC100-W1",
-      "path": "05 - Projects/Faculdade/SOC100-W1.md"
     }
   ],
   "omittedPaths": [],

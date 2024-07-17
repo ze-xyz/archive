@@ -1,14 +1,14 @@
 {
   "lightStyle": "minimal-light",
-  "darkStyle": "minimal-dark-tonal",
+  "darkStyle": "minimal-dark",
   "lightScheme": "minimal-macos-light",
-  "darkScheme": "minimal-gruvbox-dark",
+  "darkScheme": "minimal-eink-dark",
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,
   "lineWidthWide": 50,
   "maxWidth": 88,
-  "textNormal": 22,
+  "textNormal": 17,
   "textSmall": 13,
   "imgGrid": true,
   "imgWidth": "img-default-width",
@@ -29,6 +29,6 @@
   "underlineExternal": false,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "devBlockWidth": false
 }

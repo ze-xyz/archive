@@ -11,7 +11,7 @@
   "defaultViewMode": "source",
   "tabSize": 4,
   "livePreview": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showInlineTitle": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -20,7 +20,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "vimMode": true,
+  "vimMode": false,
   "rightToLeft": false,
   "showRibbon": false
 }

@@ -1,15 +1,15 @@
 {
   "accentColor": "#007aff",
   "cssTheme": "Minimal",
-  "textFontFamily": "Latin Modern Mono Light 12",
+  "textFontFamily": "Pitch",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "extended-colorschemes",
     "Minimal"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 22,
-  "interfaceFontFamily": "Latin Modern Mono 12",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "Latin Modern Mono 12",
   "nativeMenus": false,
   "showViewHeader": false,
