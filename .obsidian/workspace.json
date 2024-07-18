@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f27c1121499ed642",
+        "id": "5347c521e6408c5b",
         "type": "tabs",
         "children": [
           {
-            "id": "b7170c745a9b702a",
+            "id": "97bfb5606192e973",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backbone.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21feae43167b3ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESPIRITUAL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b457bb2b9881b89f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pilares.md",
+                "file": "01 - LOG/2024-07-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -144,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESPIRITUAL.md"
+                "file": "01 - LOG/2024-07-18.md"
               }
             }
           },
@@ -165,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESPIRITUAL.md",
+                "file": "01 - LOG/2024-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESPIRITUAL.md",
+                "file": "01 - LOG/2024-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ESPIRITUAL.md"
+                "file": "01 - LOG/2024-07-18.md"
               }
             }
           }
@@ -256,10 +229,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21feae43167b3ef0",
+  "active": "97bfb5606192e973",
   "lastOpenFiles": [
+    "BULLET JOURNAL.md",
+    "01 - LOG/2024-07-18.md",
     "backbone.md",
-    "ESPIRITUAL.md",
+    "05 - Projects/bullet journal/bullet journal.md",
+    "bullet journal.md",
+    "index.md",
+    "00 - MOC/MOC - FACULDADE.md",
+    "05 - Projects/BuJo/TESTE.canvas",
+    "OBJETIVOS.md",
     "pilares.md",
     "saúde e condição física.md",
     "01 - LOG/2024-07-17.md",
@@ -269,24 +249,17 @@
     "pi.md",
     "HOME.md",
     "Untitled",
-    "05 - Projects/bullet journal/bullet journal.md",
     "habitos.md",
-    "05 - Projects/bullet journal/REVISÃO MÊS.md",
+    "05 - Projects/BuJo/REVISÃO MÊS.md",
     "README.md",
-    "05 - Projects/bullet journal/TESTE.canvas",
-    "05 - Projects/bullet journal/r week.md",
-    "05 - Projects/bullet journal/p estud.md",
-    "05 - Projects/bullet journal/FIM DE CADA DIA.md",
-    "05 - Projects/bullet journal",
+    "05 - Projects/BuJo/r week.md",
+    "05 - Projects/BuJo/p estud.md",
+    "05 - Projects/BuJo/FIM DE CADA DIA.md",
+    "05 - Projects/BuJo",
     "ano.md",
     "dia.md",
     "02 - Reference/Cursos/ICS/cronograma de estudo.md",
     "02 - Reference/Cursos/ICS/técnicas de retrieval.md",
-    "02 - Reference/Cursos/ICS/como fazer revisões.md",
-    "02 - Reference/Cursos/ICS/fundamentals 1.md",
-    "02 - Reference/Cursos/ICS/técnicas de interleaving.md",
-    "00 - MOC/MOC - ICANSTUDY.md",
-    "03 - Permanent/full recall.md",
     "05 - Projects/Blog",
     "05 - Projects/Faculdade",
     "02 - Reference/Video",
