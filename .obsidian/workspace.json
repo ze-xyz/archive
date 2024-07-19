@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5347c521e6408c5b",
+        "id": "f6a540b2bf333618",
         "type": "tabs",
         "children": [
           {
-            "id": "97bfb5606192e973",
+            "id": "0d40dc943f62ba2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - LOG/2024-07-18.md",
+                "file": "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,6 +33,7 @@
       {
         "id": "ab5306a2ed2af78c",
         "type": "tabs",
+        "dimension": 64.23357664233576,
         "children": [
           {
             "id": "734a8421027abb30",
@@ -80,6 +81,7 @@
       {
         "id": "9fca053f7fba5364",
         "type": "tabs",
+        "dimension": 35.76642335766424,
         "children": [
           {
             "id": "100e53eda19693e0",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - LOG/2024-07-18.md"
+                "file": "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md"
               }
             }
           },
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - LOG/2024-07-18.md",
+                "file": "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - LOG/2024-07-18.md",
+                "file": "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 - LOG/2024-07-18.md"
+                "file": "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md"
               }
             }
           }
@@ -229,37 +231,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97bfb5606192e973",
+  "active": "734a8421027abb30",
   "lastOpenFiles": [
-    "BULLET JOURNAL.md",
-    "01 - LOG/2024-07-18.md",
+    "1 - introduction.md",
+    "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md",
     "backbone.md",
-    "05 - Projects/bullet journal/bullet journal.md",
-    "bullet journal.md",
+    "BULLET JOURNAL.md",
     "index.md",
-    "00 - MOC/MOC - FACULDADE.md",
-    "05 - Projects/BuJo/TESTE.canvas",
     "OBJETIVOS.md",
+    "05 - Projects/Campinho digital/PRÉ-ESTUDO - AWS.md",
     "pilares.md",
-    "saúde e condição física.md",
-    "01 - LOG/2024-07-17.md",
-    "PILARESS.md",
-    "01 - LOG/2024-07-16.md",
-    "01 - LOG/2024-07-15.md",
-    "pi.md",
+    "02 - Reference/Cursos/ICS/technique training.md",
+    "00 - MOC/MOC - ICANSTUDY.md",
     "HOME.md",
-    "Untitled",
-    "habitos.md",
-    "05 - Projects/BuJo/REVISÃO MÊS.md",
-    "README.md",
-    "05 - Projects/BuJo/r week.md",
-    "05 - Projects/BuJo/p estud.md",
-    "05 - Projects/BuJo/FIM DE CADA DIA.md",
+    "02 - Reference/Cursos/ICS/HIGH-YIELD PHASE.md",
+    "02 - Reference/Cursos/ICS/GROWTH PHASE.md",
+    "02 - Reference/Cursos/ICS/briefing.md",
+    "02 - Reference/Cursos/ICS/2 - gear check.md",
+    "+/Sistema de Estudo.md",
+    "02 - Reference/Cursos/ICS/fundamentals 2.md",
+    "02 - Reference/Cursos/ICS/tomando notas.md",
+    "02 - Reference/Cursos/ICS/30 days plan.md",
+    "02 - Reference/Cursos/ICS/fundamentals 1.md",
+    "02 - Reference/Cursos/ICS/marginal gains.md",
+    "02 - Reference/Cursos/ICS/spacing, interleaving and retrieval.md",
+    "00 - MOC/MOC - CAMPINHO DIGITAL.md",
+    "06 - Glossário",
+    "ELEMENTOS ESSENCIAS DO AWS CLOUD.md",
+    "05 - Projects/Campinho digital",
+    "00 - MOC/MOC - FILOSOFIA.md",
+    "01 - LOG/2024-07-19.md",
+    "05 - Projects/BuJo/TESTE.canvas",
     "05 - Projects/BuJo",
-    "ano.md",
-    "dia.md",
-    "02 - Reference/Cursos/ICS/cronograma de estudo.md",
-    "02 - Reference/Cursos/ICS/técnicas de retrieval.md",
     "05 - Projects/Blog",
     "05 - Projects/Faculdade",
     "02 - Reference/Video",
@@ -267,7 +270,6 @@
     "05 - Projects/Faculdade/1 Semestre/Matemática Básica",
     "05 - Projects/Faculdade/1 Semestre/Inglês",
     "05 - Projects/Faculdade/1 Semestre/Pensamento Computacional",
-    "05 - Projects/Faculdade/1 Semestre/Leitura e Produção de Textos",
     "99 - meta/Images/image_2021-06-21_12-33-11.png",
     "99 - meta/Images/Start With How To Read A Book v2.png",
     "99 - meta/Images/Pasted image 20240521074501.png",

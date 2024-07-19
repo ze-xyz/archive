@@ -1,23 +1,12 @@
 ---
 created: 2024-04-11T07:31
+updated: 2024-07-19T16:21
 ---
 - [[Sistema de Estudo]]
 
-## HIGH-YIELD PHASE
-- [[fundamentals 1]]
-- [[fundamentals 2]]
+- [[HIGH-YIELD PHASE]]
+- [[GROWTH PHASE]]
 
-## GROWTH PHASE
-
-- [[briefing]]
-- [[technique training]]
-
-- **ascent i** → passo `aim`
-- **ascent ii** → passo `shoot`
-- **ascent iii** → passo `skin`
-- **base camp** → prática
-
-- **camp i**: 
-- **camp ii**: 
-
-- **summit**: 
+**ESTUDAR PRIMEIRO**
+- [ ] marginal gains
+- [ ] kolbs learning cycles

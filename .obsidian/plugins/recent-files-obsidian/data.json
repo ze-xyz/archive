@@ -1,32 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-07-18",
-      "path": "01 - LOG/2024-07-18.md"
-    },
-    {
-      "basename": "BULLET JOURNAL",
-      "path": "BULLET JOURNAL.md"
-    },
-    {
-      "basename": "backbone",
-      "path": "backbone.md"
-    },
-    {
-      "basename": "MOC - FACULDADE",
-      "path": "00 - MOC/MOC - FACULDADE.md"
-    },
-    {
-      "basename": "TESTE",
-      "path": "05 - Projects/BuJo/TESTE.canvas"
+      "basename": "módulo 01 - introdução à amazon web services",
+      "path": "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md"
     },
     {
       "basename": "OBJETIVOS",
       "path": "OBJETIVOS.md"
     },
     {
-      "basename": "pilares",
-      "path": "pilares.md"
+      "basename": "PRÉ-ESTUDO - AWS",
+      "path": "05 - Projects/Campinho digital/PRÉ-ESTUDO - AWS.md"
+    },
+    {
+      "basename": "technique training",
+      "path": "02 - Reference/Cursos/ICS/technique training.md"
+    },
+    {
+      "basename": "MOC - ICANSTUDY",
+      "path": "00 - MOC/MOC - ICANSTUDY.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "HIGH-YIELD PHASE",
+      "path": "02 - Reference/Cursos/ICS/HIGH-YIELD PHASE.md"
+    },
+    {
+      "basename": "GROWTH PHASE",
+      "path": "02 - Reference/Cursos/ICS/GROWTH PHASE.md"
+    },
+    {
+      "basename": "briefing",
+      "path": "02 - Reference/Cursos/ICS/briefing.md"
+    },
+    {
+      "basename": "2 - gear check",
+      "path": "02 - Reference/Cursos/ICS/2 - gear check.md"
+    },
+    {
+      "basename": "Sistema de Estudo",
+      "path": "+/Sistema de Estudo.md"
+    },
+    {
+      "basename": "fundamentals 2",
+      "path": "02 - Reference/Cursos/ICS/fundamentals 2.md"
+    },
+    {
+      "basename": "tomando notas",
+      "path": "02 - Reference/Cursos/ICS/tomando notas.md"
+    },
+    {
+      "basename": "30 days plan",
+      "path": "02 - Reference/Cursos/ICS/30 days plan.md"
+    },
+    {
+      "basename": "fundamentals 1",
+      "path": "02 - Reference/Cursos/ICS/fundamentals 1.md"
+    },
+    {
+      "basename": "marginal gains",
+      "path": "02 - Reference/Cursos/ICS/marginal gains.md"
+    },
+    {
+      "basename": "spacing, interleaving and retrieval",
+      "path": "02 - Reference/Cursos/ICS/spacing, interleaving and retrieval.md"
+    },
+    {
+      "basename": "MOC - CAMPINHO DIGITAL",
+      "path": "00 - MOC/MOC - CAMPINHO DIGITAL.md"
+    },
+    {
+      "basename": "MOC - FILOSOFIA",
+      "path": "00 - MOC/MOC - FILOSOFIA.md"
+    },
+    {
+      "basename": "2024-07-19",
+      "path": "01 - LOG/2024-07-19.md"
+    },
+    {
+      "basename": "LET110-W1",
+      "path": "05 - Projects/Faculdade/LET110-W1.md"
+    },
+    {
+      "basename": "LET110",
+      "path": "05 - Projects/Faculdade/LET110.md"
+    },
+    {
+      "basename": "MOC - FACULDADE",
+      "path": "00 - MOC/MOC - FACULDADE.md"
+    },
+    {
+      "basename": "2024-07-18",
+      "path": "01 - LOG/2024-07-18.md"
+    },
+    {
+      "basename": "TESTE",
+      "path": "05 - Projects/BuJo/TESTE.canvas"
     },
     {
       "basename": "2024-07-17",
@@ -39,10 +111,6 @@
     {
       "basename": "2024-07-15",
       "path": "01 - LOG/2024-07-15.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     },
     {
       "basename": "REVISÃO MÊS",
@@ -73,16 +141,8 @@
       "path": "02 - Reference/Cursos/ICS/como fazer revisões.md"
     },
     {
-      "basename": "fundamentals 1",
-      "path": "02 - Reference/Cursos/ICS/fundamentals 1.md"
-    },
-    {
       "basename": "técnicas de interleaving",
       "path": "02 - Reference/Cursos/ICS/técnicas de interleaving.md"
-    },
-    {
-      "basename": "MOC - ICANSTUDY",
-      "path": "00 - MOC/MOC - ICANSTUDY.md"
     },
     {
       "basename": "full recall",
@@ -91,10 +151,6 @@
     {
       "basename": "revisão",
       "path": "03 - Permanent/revisão.md"
-    },
-    {
-      "basename": "fundamentals 2",
-      "path": "02 - Reference/Cursos/ICS/fundamentals 2.md"
     },
     {
       "basename": "cs.estudo",
@@ -117,14 +173,6 @@
       "path": "01 - LOG/2024-07-12.md"
     },
     {
-      "basename": "briefing",
-      "path": "02 - Reference/Cursos/ICS/briefing.md"
-    },
-    {
-      "basename": "gear check",
-      "path": "02 - Reference/Cursos/ICS/gear check.md"
-    },
-    {
       "basename": "SOC100",
       "path": "05 - Projects/Faculdade/SOC100.md"
     },
@@ -135,62 +183,6 @@
     {
       "basename": "fitness training",
       "path": "02 - Reference/Cursos/ICS/fitness training.md"
-    },
-    {
-      "basename": "TÉCNICAS",
-      "path": "02 - Reference/Cursos/ICS/TÉCNICAS.md"
-    },
-    {
-      "basename": "LET110-W1",
-      "path": "05 - Projects/Faculdade/LET110-W1.md"
-    },
-    {
-      "basename": "LET110",
-      "path": "05 - Projects/Faculdade/LET110.md"
-    },
-    {
-      "basename": "2024-07-11",
-      "path": "01 - LOG/2024-07-11.md"
-    },
-    {
-      "basename": "tipos de livros",
-      "path": "03 - Permanent/tipos de livros.md"
-    },
-    {
-      "basename": "perguntas teóricas e práticas",
-      "path": "03 - Permanent/perguntas teóricas e práticas.md"
-    },
-    {
-      "basename": "exemplos de resumos",
-      "path": "03 - Permanent/exemplos de resumos.md"
-    },
-    {
-      "basename": "exemplo de organização estrutural",
-      "path": "03 - Permanent/exemplo de organização estrutural.md"
-    },
-    {
-      "basename": "como organizar argumentos",
-      "path": "03 - Permanent/como organizar argumentos.md"
-    },
-    {
-      "basename": "como encontrar as frases-chave e suas proposições",
-      "path": "03 - Permanent/como encontrar as frases-chave e suas proposições.md"
-    },
-    {
-      "basename": "2024-07-10",
-      "path": "01 - LOG/2024-07-10.md"
-    },
-    {
-      "basename": "SOC100-W6",
-      "path": "05 - Projects/Faculdade/SOC100-W6.md"
-    },
-    {
-      "basename": "SOC100-W7",
-      "path": "05 - Projects/Faculdade/SOC100-W7.md"
-    },
-    {
-      "basename": "SOC100-W8",
-      "path": "05 - Projects/Faculdade/SOC100-W8.md"
     }
   ],
   "omittedPaths": [],

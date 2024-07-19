@@ -1,15 +1,15 @@
 ---
 created: 2024-04-03T07:25
-updated: 2024-04-05T19:36
+updated: 2024-07-19T15:50
 related: 
-tags:
+tags: 
 ---
 # pontos importantes
 - melhorar por frequência é mais produtivo que melhorar por esforços intensos.
 - ganhos marginais não são so mais fáceis e sustentáveis como também produzem um efeito total maior
 - ganhos marginais são acumulativos e possuem um crescimento logarítmico. Por conta disso é melhor começarmos de forma imperfeita agora do que perfeitamente depois (e perdermos os ganhos logarítmicos)
 
-# organizando ganhos marginais
+# organizando marginal gains
 ## passo 1: defina um objetivo
 - defina um objetivo importante e desafiador. **entre 9 meses a 3 anos**
 ## passo 2: destrinche seu objetivo

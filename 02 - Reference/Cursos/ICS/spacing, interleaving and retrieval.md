@@ -1,6 +1,6 @@
 ---
 created: 2024-04-11T07:42
-updated: 2024-04-17T07:11
+updated: 2024-07-19T15:47
 up: "[[03 - Reference/course/icanstudy/MOC - ICanStudy]]"
 tags:
   - fundamentals-1
@@ -62,3 +62,8 @@ toda técnica aprendida abrange um desses pilares.
 **SPACING** -> espaçar os períodos de [[como fazer revisões]] 
 **INTERLEAVING** -> usar a informação sobre algo em diferentes ângulos 
 **RETRIEVAL** -> pegar informações da *long term memory* e mandar para a  *working memory*
+
+## ver também
+- [[como fazer revisões]]
+- [[técnicas de interleaving]]
+- [[técnicas de retrieval]]

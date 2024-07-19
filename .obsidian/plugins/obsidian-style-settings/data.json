@@ -129,5 +129,6 @@
   "primary-theme@@link-unresolved-color@@dark": "#007AFF",
   "primary-theme@@link-unresolved-color@@light": "#007AFF",
   "minimal-style@@checkbox-shape": "checkbox-square",
-  "minimal-style@@minimal-strike-lists": true
+  "minimal-style@@minimal-strike-lists": false,
+  "minimal-style@@tabs-style": "tabs-default"
 }
