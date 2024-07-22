@@ -1,3 +1,8 @@
+---
+created: 2024-07-19T19:29
+updated: 2024-07-21T13:39
+type: "[[index]]"
+---
 ## Filosofia Prática
 - [[Como iniciar meus estudos de Filosofia e estudar por contra própria]]
 - [[Como minha concepção de realidade interfere em minha ação]] 

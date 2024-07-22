@@ -1,6 +1,7 @@
 ---
 created: 2024-07-10T08:13
-updated: 2024-07-10T13:04
+updated: 2024-07-21T13:39
+type: "[[index]]"
 ---
 ## 1 - SEMESTRE
 - [[COM100]] Pensamento Computacional

@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "attachments",
+  "userIgnoreFilters": [
+    "attachments/"
+  ],
+  "livePreview": false,
+  "promptDelete": false
+}

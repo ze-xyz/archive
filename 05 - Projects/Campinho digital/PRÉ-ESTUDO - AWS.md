@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T13:27
-updated: 2024-07-19T13:39
+updated: 2024-07-19T19:31
 ---
 # ELEMENTOS ESSENCIAIS DO AWS CLOUD
 ## TODO
@@ -19,14 +19,14 @@ updated: 2024-07-19T13:39
 - [ ] como utilizar as ferramentas de definição de preço para escolher serviços AWS de forma econômica?
 
 ## ESTRUTURA
-[[módulo 01 - introdução à amazon web services]]
-[[módulo 02 - computação em nuvem]]
-[[módulo 03 - infraestrutura global e confiabilidade]]
-[[módulo 04 - redes]]
-[[módulo 05 - armazenamento de bancos de dados]]
-[[módulo 06 - segurança]]
-[[módulo 07 - monitoramento e análise]]
-[[módulo 08 -  preço e suporte]]
-[[módulo 09 - migração e inovação]]
-[[módulo 10 - a jornada para a nuvem]]
-[[módulo 11 - conceitos básicos do AWS Certified Cloud Practitioner]]
+- [ ] [[módulo 01 - introdução à amazon web services]]
+- [ ] [[módulo 02 - computação em nuvem]]
+- [ ] [[módulo 03 - infraestrutura global e confiabilidade]]
+- [ ] [[módulo 04 - redes]]
+- [ ] [[módulo 05 - armazenamento de bancos de dados]]
+- [ ] [[módulo 06 - segurança]]
+- [ ] [[módulo 07 - monitoramento e análise]]
+- [ ] [[módulo 08 -  preço e suporte]]
+- [ ] [[módulo 09 - migração e inovação]]
+- [ ] [[módulo 10 - a jornada para a nuvem]]
+- [ ] [[módulo 11 - conceitos básicos do AWS Certified Cloud Practitioner]]

@@ -10,7 +10,7 @@
   "baseFontSizeAction": true,
   "baseFontSize": 17,
   "interfaceFontFamily": "SF Pro Display",
-  "monospaceFontFamily": "Latin Modern Mono 12",
+  "monospaceFontFamily": "Pitch",
   "nativeMenus": false,
   "showViewHeader": false,
   "theme": "moonstone"

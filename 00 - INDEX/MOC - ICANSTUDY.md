@@ -1,6 +1,7 @@
 ---
 created: 2024-04-11T07:31
-updated: 2024-07-19T16:21
+updated: 2024-07-21T13:40
+type: "[[index]]"
 ---
 - [[Sistema de Estudo]]
 
