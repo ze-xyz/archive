@@ -1,9 +1,8 @@
 ---
 created-date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-up:
-  -"[[project moc]]"
-related:
-aliases:
+up: "[[MOC - PROJECTS]]"
+related: 
+aliases: 
 tags:
   - "#type/project"
   - "#status/active"

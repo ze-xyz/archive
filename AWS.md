@@ -1,0 +1,41 @@
+---
+created: 2024-07-22T10:12
+updated: 2024-07-23T15:11
+---
+- introdução
+	- [x] ==[[o que é computação em nuvem]]== = entrega de recursos de ti — armazenamento, bancos de dados, etc... — sob demanda pela internet com pagamento conforme o uso
+	- [ ] tipos de computação em nuvem 
+		- [ ] modelos principais
+			- [x] ==IaaS== = oferta de recursos fundamentais de TI como armazenamento, rede, bancos de dados.
+			- [ ] PaaS = 
+			- [ ] Saas = 
+		- [ ] modelos de deploy
+- [ ] amazon elastic computer cloud = plataforma de computação segura e redimensionável
+	- [ ] controle de aspectos de rede do EC2
+	- [ ] CaaS
+	- [x] ==scaling vertical== = basicamente fazer upgrades no servidor, aumentando sua capacidade, poder de processamento, memória etc
+	- [x] hypervisor = software/firmware ou hardware que te deixa usar múltiplas máquinas virtuais
+	- [x] multitenancy é a distribuição do hardware pelas virtual machines para suportar múltiplos usuários 
+	- configurações do EC2
+		- windows ou linux
+		- aplicações corporativas internas
+		- aplicações web
+		- bancos de dados
+		- outros softwares
+	- tipos de instancia do EC2
+		- as instâncias do EC2 são agrupadas e otimizados para determinadas tarefas
+			- Uso geral
+				- equilibro entre *computação memória e rede*
+			- otimizadas para computação
+				- tarefas de uso intenso
+				- servidores de jogos
+				- High Performance Computing (HPC)
+				- Modelagem ciêntífica
+			- otimizadas para memória
+			- otimizadas para armazenamento
+				- foco no desempenho para dados armazenados localmente
+			- computação acelerada
+				- cálculos com float
+				- processamento gráfico
+				- correspondência de padrão de dados
+				- aceleradores de hardware

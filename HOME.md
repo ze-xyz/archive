@@ -1,6 +1,6 @@
 ---
 created: 2024-07-10T10:18
-updated: 2024-07-19T16:25
+updated: 2024-07-22T13:58
 ---
 
 **PRIORIDADES ESTUDO**
@@ -10,5 +10,5 @@ updated: 2024-07-19T16:25
 ## MOC
 ```dataview
 list
-FROM "00 - MOC"
+FROM "00 - INDEX"
 ```

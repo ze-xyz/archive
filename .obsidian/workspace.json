@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d01347ab05b3014e",
+        "id": "82844c7f7cd860f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7409a88ac57d3b2c",
+            "id": "0232ce062722aa8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PKM THEORY.md",
+                "file": "CR6.100B - 0.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,7 @@
       {
         "id": "ab5306a2ed2af78c",
         "type": "tabs",
-        "dimension": 64.23357664233576,
+        "dimension": 61.67076167076168,
         "children": [
           {
             "id": "734a8421027abb30",
@@ -67,21 +67,13 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "5422daa486c227a0",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "9fca053f7fba5364",
         "type": "tabs",
-        "dimension": 35.76642335766424,
+        "dimension": 38.32923832923833,
         "children": [
           {
             "id": "100e53eda19693e0",
@@ -91,7 +83,7 @@
               "type": "markdown",
               "state": {
                 "file": "HOME.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -102,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "right": {
     "id": "ace26239e8ccc29a",
@@ -118,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PKM THEORY.md"
+                "file": "CR6.100B - 0.md"
               }
             }
           },
@@ -139,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PKM THEORY.md",
+                "file": "CR6.100B - 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKM THEORY.md",
+                "file": "CR6.100B - 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,22 +181,30 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PKM THEORY.md"
+                "file": "CR6.100B - 0.md"
               }
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "028a4a5e3aa1c314",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "77fe0747641dfe35",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "03e09fa2561b7883",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5422daa486c227a0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -230,45 +231,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7409a88ac57d3b2c",
+  "active": "0232ce062722aa8c",
   "lastOpenFiles": [
+    "00 - INDEX/MOC - CR6.100B.md",
+    "CR6.100B - 0.md",
+    "OBJETIVOS.md",
+    "05 - Projects/CR6.100B",
+    "HOME.md",
+    "AWS.md",
+    "o que é IaaS.md",
+    "06 - Glossário/6 vantagens da computação em núvem.md",
+    "06 - Glossário/o que é computação em nuvem.md",
+    "01 - LOG/2024-07-23.md",
+    "05 - Projects/Campinho digital/PRÉ-ESTUDO - AWS.md",
+    "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md",
+    "00 - INDEX/MOC - CAMPINHO DIGITAL.md",
+    "PLANO DE TREINO.md",
+    "99 - meta/meta.md",
+    "99 - meta/LAST MODIFIED.md",
+    "matérias estudadas.md",
     "PKM THEORY.md",
-    "01 - LOG/2024-07-21.md",
+    "02 - Reference/Livros/Como Ler Livros/tipos de livros.md",
+    "03 - Permanent/revisão.md",
+    "03 - Permanent/pré-estudo.md",
+    "02 - Reference/Livros/Como Ler Livros/perguntas teóricas e práticas.md",
+    "03 - Permanent/full recall.md",
+    "02 - Reference/Livros/Como Ler Livros/exemplos de resumos.md",
+    "02 - Reference/Livros/Como Ler Livros/exemplo de organização estrutural.md",
+    "02 - Reference/Livros/Como Ler Livros/Como ler Livros.md",
+    "02 - Reference/Livros/Como Ler Livros",
+    "03 - Permanent/como organizar argumentos.md",
     "01 - LOG/Monthly",
     "01 - LOG/Weekley",
     "01 - LOG/Daily",
-    "00 - INDEX/MOC - INVESTIMENTOS.md",
-    "00 - INDEX/MOC - ICANSTUDY.md",
-    "00 - INDEX/MOC - FILOSOFIA.md",
-    "00 - INDEX/MOC - FACULDADE.md",
-    "00 - INDEX/MOC - CAMPINHO DIGITAL.md",
-    "05 - Projects/Campinho digital/PRÉ-ESTUDO - AWS.md",
-    "HOME.md",
-    "01 - LOG/Daily/2024-07-19.md",
-    "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md",
-    "1 - introduction.md",
-    "backbone.md",
-    "BULLET JOURNAL.md",
-    "index.md",
-    "OBJETIVOS.md",
-    "pilares.md",
-    "02 - Reference/Cursos/ICS/technique training.md",
-    "02 - Reference/Cursos/ICS/HIGH-YIELD PHASE.md",
-    "02 - Reference/Cursos/ICS/GROWTH PHASE.md",
-    "02 - Reference/Cursos/ICS/briefing.md",
-    "02 - Reference/Cursos/ICS/2 - gear check.md",
-    "+/Sistema de Estudo.md",
-    "02 - Reference/Cursos/ICS/fundamentals 2.md",
-    "02 - Reference/Cursos/ICS/tomando notas.md",
-    "02 - Reference/Cursos/ICS/30 days plan.md",
     "06 - Glossário",
     "05 - Projects/Campinho digital",
     "05 - Projects/BuJo/TESTE.canvas",
     "05 - Projects/BuJo",
     "05 - Projects/Blog",
     "05 - Projects/Faculdade",
-    "02 - Reference/Video",
-    "05 - Projects/Faculdade/1 Semestre/Projetos e métodos para a produção de conhecimento",
     "99 - meta/Images/image_2021-06-21_12-33-11.png",
     "99 - meta/Images/Start With How To Read A Book v2.png",
     "99 - meta/Images/Pasted image 20240521074501.png",

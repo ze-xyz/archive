@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"00 - MOC\"  ",
+      "query": "path:\"00 - INDEX\"  ",
       "color": {
         "a": 1,
         "rgb": 31487
@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "path:\"02 - Permanent\"  ",
+      "query": "path:\"02 - Reference\"  ",
       "color": {
         "a": 1,
         "rgb": 15073280
       }
     },
     {
-      "query": "path:\"05 - Projects\" - Projects\"   ",
+      "query": "path:\"05 - Projects\"   ",
       "color": {
         "a": 1,
         "rgb": 16776960

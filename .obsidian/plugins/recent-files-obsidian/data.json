@@ -1,12 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "CR6.100B - 0",
+      "path": "CR6.100B - 0.md"
+    },
+    {
+      "basename": "MOC - CR6.100B",
+      "path": "00 - INDEX/MOC - CR6.100B.md"
+    },
+    {
+      "basename": "OBJETIVOS",
+      "path": "OBJETIVOS.md"
+    },
+    {
       "basename": "HOME",
       "path": "HOME.md"
     },
     {
-      "basename": "PKM THEORY",
-      "path": "PKM THEORY.md"
+      "basename": "AWS",
+      "path": "AWS.md"
+    },
+    {
+      "basename": "o que é computação em nuvem",
+      "path": "06 - Glossário/o que é computação em nuvem.md"
+    },
+    {
+      "basename": "2024-07-23",
+      "path": "01 - LOG/2024-07-23.md"
+    },
+    {
+      "basename": "PRÉ-ESTUDO - AWS",
+      "path": "05 - Projects/Campinho digital/PRÉ-ESTUDO - AWS.md"
+    },
+    {
+      "basename": "módulo 01 - introdução à amazon web services",
+      "path": "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md"
+    },
+    {
+      "basename": "MOC - CAMPINHO DIGITAL",
+      "path": "00 - INDEX/MOC - CAMPINHO DIGITAL.md"
+    },
+    {
+      "basename": "PLANO DE TREINO",
+      "path": "PLANO DE TREINO.md"
+    },
+    {
+      "basename": "meta",
+      "path": "99 - meta/meta.md"
+    },
+    {
+      "basename": "tipos de livros",
+      "path": "02 - Reference/Livros/Como Ler Livros/tipos de livros.md"
+    },
+    {
+      "basename": "revisão",
+      "path": "03 - Permanent/revisão.md"
+    },
+    {
+      "basename": "pré-estudo",
+      "path": "03 - Permanent/pré-estudo.md"
+    },
+    {
+      "basename": "perguntas teóricas e práticas",
+      "path": "02 - Reference/Livros/Como Ler Livros/perguntas teóricas e práticas.md"
+    },
+    {
+      "basename": "full recall",
+      "path": "03 - Permanent/full recall.md"
+    },
+    {
+      "basename": "exemplos de resumos",
+      "path": "02 - Reference/Livros/Como Ler Livros/exemplos de resumos.md"
+    },
+    {
+      "basename": "exemplo de organização estrutural",
+      "path": "02 - Reference/Livros/Como Ler Livros/exemplo de organização estrutural.md"
+    },
+    {
+      "basename": "Como ler Livros",
+      "path": "02 - Reference/Livros/Como Ler Livros/Como ler Livros.md"
+    },
+    {
+      "basename": "2024-07-22",
+      "path": "01 - LOG/2024-07-22.md"
     },
     {
       "basename": "2024-07-21",
@@ -29,24 +105,8 @@
       "path": "00 - INDEX/MOC - FACULDADE.md"
     },
     {
-      "basename": "MOC - CAMPINHO DIGITAL",
-      "path": "00 - INDEX/MOC - CAMPINHO DIGITAL.md"
-    },
-    {
-      "basename": "PRÉ-ESTUDO - AWS",
-      "path": "05 - Projects/Campinho digital/PRÉ-ESTUDO - AWS.md"
-    },
-    {
       "basename": "2024-07-19",
       "path": "01 - LOG/Daily/2024-07-19.md"
-    },
-    {
-      "basename": "módulo 01 - introdução à amazon web services",
-      "path": "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md"
-    },
-    {
-      "basename": "OBJETIVOS",
-      "path": "OBJETIVOS.md"
     },
     {
       "basename": "technique training",
@@ -139,62 +199,6 @@
     {
       "basename": "FIM DE CADA DIA",
       "path": "05 - Projects/BuJo/FIM DE CADA DIA.md"
-    },
-    {
-      "basename": "cronograma de estudo",
-      "path": "02 - Reference/Cursos/ICS/cronograma de estudo.md"
-    },
-    {
-      "basename": "técnicas de retrieval",
-      "path": "02 - Reference/Cursos/ICS/técnicas de retrieval.md"
-    },
-    {
-      "basename": "como fazer revisões",
-      "path": "02 - Reference/Cursos/ICS/como fazer revisões.md"
-    },
-    {
-      "basename": "técnicas de interleaving",
-      "path": "02 - Reference/Cursos/ICS/técnicas de interleaving.md"
-    },
-    {
-      "basename": "full recall",
-      "path": "03 - Permanent/full recall.md"
-    },
-    {
-      "basename": "revisão",
-      "path": "03 - Permanent/revisão.md"
-    },
-    {
-      "basename": "cs.estudo",
-      "path": "04 - Areas/Ciência da Computação/cs.estudo.md"
-    },
-    {
-      "basename": "Traffic Light System",
-      "path": "03 - Permanent/Traffic Light System.md"
-    },
-    {
-      "basename": "cs.projetos",
-      "path": "04 - Areas/Ciência da Computação/cs.projetos.md"
-    },
-    {
-      "basename": "Como ler Livros",
-      "path": "02 - Reference/Livros/Como ler Livros.md"
-    },
-    {
-      "basename": "2024-07-12",
-      "path": "01 - LOG/Daily/2024-07-12.md"
-    },
-    {
-      "basename": "SOC100",
-      "path": "05 - Projects/Faculdade/SOC100.md"
-    },
-    {
-      "basename": "pré-estudo",
-      "path": "03 - Permanent/pré-estudo.md"
-    },
-    {
-      "basename": "fitness training",
-      "path": "02 - Reference/Cursos/ICS/fitness training.md"
     }
   ],
   "omittedPaths": [],

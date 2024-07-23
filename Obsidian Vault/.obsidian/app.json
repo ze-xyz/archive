@@ -6,6 +6,6 @@
   "userIgnoreFilters": [
     "attachments/"
   ],
-  "livePreview": false,
+  "livePreview": true,
   "promptDelete": false
 }

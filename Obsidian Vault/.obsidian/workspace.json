@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cddee11c2374980",
+        "id": "927d56d2b6df79cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f470408c605d8b20",
+            "id": "c89fc55baf33d3c5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -62,10 +62,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "3d3e41bc97776f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f470408c605d8b20",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/HOME.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.50499725341797
   },
   "right": {
     "id": "5521cb947bb7596d",
@@ -74,6 +94,7 @@
       {
         "id": "584cc1f4578be659",
         "type": "tabs",
+        "dimension": 37.63213530655391,
         "children": [
           {
             "id": "76b5dfe0944740a0",
@@ -122,7 +143,7 @@
             }
           },
           {
-            "id": "9ac4eef6d3d06b7e",
+            "id": "ed3ec57b59549b43",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -131,11 +152,31 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "a41760f6c9994f23",
+        "type": "tabs",
+        "dimension": 62.36786469344609,
+        "children": [
+          {
+            "id": "c0ddfd63d25ce0bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/LAST MODIFIED.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 454.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,14 +190,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f470408c605d8b20",
+  "active": "c89fc55baf33d3c5",
   "lastOpenFiles": [
     "notes/HOME.md",
+    "journal/02 weekly/2024/2024-W31.md",
+    "journal/02 weekly/2024",
+    "journal/02 weekly",
+    "notes/MOC - KNOWLEDGE BASE.md",
+    "notes/MOC - PROJECTS.md",
+    "notes/COM100 - W1.md",
+    "notes/LAST MODIFIED.md",
+    "journal/01 daily/2024/07/2024-07-22.md",
+    "notes/COM100 - Pensamento Computacional.md",
+    "templates/sub project  (template).md",
+    "templates/project (template).md",
+    "notes/2024-07-22.md",
+    "templates/daily note (template).md",
+    "journal/01 daily/2024/07",
+    "journal/01 daily/2024",
+    "journal/01 daily",
+    "notes/MOC - SEEDBOX.md",
+    "notes/MOC - PEOPLE.md",
+    "notes/test.md",
+    "notes/MOC - SPRINT.md",
+    "notes/MOC - MEETINGS.md",
+    "notes/MOC - TASK.md",
+    "seedbox",
+    "journal",
+    "attachments",
     "templates/meeting note (template).md",
     "templates/log sprint (template).md",
-    "templates/project (template).md",
-    "templates/sub project  (template).md",
-    "templates/daily note (template).md",
     "templates/moc (template).md",
     "templates/monthly note (template).md",
     "templates/new note (template).md",
@@ -164,17 +227,7 @@
     "notes/people (template).md",
     "templates",
     "seedbox",
-    "notes",
-    "journal/03 monthly",
-    "journal/02 weekly",
-    "journal/01 daily",
-    "journal",
-    "attachments",
-    "attatch",
     "index.md",
-    "00 - index",
-    "Excalidraw/Drawing 2024-06-26 18.26.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-26 18.30.07.excalidraw.md",
     "Pasted Image 20240626183527_134.png"
   ]
 }

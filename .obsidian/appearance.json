@@ -1,16 +1,15 @@
 {
   "accentColor": "#007aff",
-  "cssTheme": "Minimal",
-  "textFontFamily": "Pitch",
+  "cssTheme": "Sanctum reborn",
+  "textFontFamily": "Latin Modern Mono 10",
   "enabledCssSnippets": [
-    "Colored Sidebar Items",
-    "extended-colorschemes",
-    "Minimal"
+    "Minimal",
+    "Colored Sidebar Items"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 17,
-  "interfaceFontFamily": "SF Pro Display",
-  "monospaceFontFamily": "Pitch",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Latin Modern Sans 10",
+  "monospaceFontFamily": "Latin Modern Mono 10",
   "nativeMenus": false,
   "showViewHeader": false,
   "theme": "moonstone"

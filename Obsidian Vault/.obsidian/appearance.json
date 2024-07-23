@@ -1,7 +1,10 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Sanctum reborn",
   "accentColor": "#007aff",
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "baseFontSize": 14
+  "baseFontSize": 21,
+  "interfaceFontFamily": "Latin Modern Sans 10",
+  "textFontFamily": "Latin Modern Sans 10",
+  "monospaceFontFamily": "Latin Modern Mono 10"
 }

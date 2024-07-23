@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T13:27
-updated: 2024-07-19T19:31
+updated: 2024-07-23T12:15
 ---
 # ELEMENTOS ESSENCIAIS DO AWS CLOUD
 ## TODO
