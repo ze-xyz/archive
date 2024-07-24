@@ -1,8 +1,12 @@
+---
+created: 2024-07-03T07:13
+updated: 2024-07-24T13:19
+---
 **templates**
 - [[00]]
-- [[kolb's cycle]]
+- [[KOLB'S LEARNING CYCLE]]
 - [[livro]]
-- [[99 - meta/templates/Marginal Gains]]
+- [[marginal gains (template)]]
 
 preloaded classes
 [[202401211512 Notebook CSS Classes]]

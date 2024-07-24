@@ -1,6 +1,6 @@
 ---
 created: 2024-07-10T08:13
-updated: 2024-07-21T13:39
+updated: 2024-07-24T15:02
 type: "[[index]]"
 ---
 ## 1 - SEMESTRE

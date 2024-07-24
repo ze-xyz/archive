@@ -1,7 +1,7 @@
 {
   "accentColor": "#007aff",
-  "cssTheme": "Sanctum reborn",
-  "textFontFamily": "Latin Modern Mono 10",
+  "cssTheme": "Minimal",
+  "textFontFamily": "SF Mono Light",
   "enabledCssSnippets": [
     "Minimal",
     "Colored Sidebar Items"

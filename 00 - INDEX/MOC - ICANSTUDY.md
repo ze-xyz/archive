@@ -1,6 +1,6 @@
 ---
 created: 2024-04-11T07:31
-updated: 2024-07-21T13:40
+updated: 2024-07-24T13:11
 type: "[[index]]"
 ---
 - [[Sistema de Estudo]]
@@ -9,5 +9,5 @@ type: "[[index]]"
 - [[GROWTH PHASE]]
 
 **ESTUDAR PRIMEIRO**
-- [ ] marginal gains
+- [x] marginal gains
 - [ ] kolbs learning cycles

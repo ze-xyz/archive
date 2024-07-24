@@ -4,9 +4,9 @@ tags:
 created: 2024-04-04T21:05
 updated: 2024-04-05T05:47
 ---
-## Experience
-{{TITLE}}
-## Reflection
+## QUAL SUA EXPERIÊNCIA?
+
+## REFLEXÃO
 - Como me senti?
 
 - Quando se sentiu assim?
@@ -27,7 +27,7 @@ updated: 2024-04-05T05:47
 
 - Como você se sentiu antes, durante e depois do evento?
 
-## Abstraction
+## ABSTRAÇÃO — extraia os padrões da reflexão e analise
 - Como **costumo** agir nessas situações?
 
 - O que em minha **abordagem**, **perspectiva** ou **estratégia** geral me tornou propenso a cometer esse erro?
@@ -36,4 +36,4 @@ updated: 2024-04-05T05:47
 
 - Que **hábitos** pareço ter em certos tipos de situações que me fazem agir, reagir ou comportar-se dessa maneira?
 
-## Experimentation
+## EXPERIMENTAÇÕES
