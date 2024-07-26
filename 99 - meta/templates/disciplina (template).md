@@ -1,0 +1,64 @@
+---
+up: "[[MOC - FACULDADE]]"
+Nome: 
+Semestre: 
+tags:
+  - "#type/disciplina"
+  - "#status/active"
+created: 2024-07-22T08:57
+updated: 2024-07-25T12:28
+---
+```dataview
+TABLE WITHOUT ID
+	file.link as "Semanas",
+	tema,
+FROM !"Templates"
+WHERE icontains(up, this.file.link)
+AND icontains(tags, "type/semana")
+SORT file.name ASC
+```
+
+## Aulas
+```dataview
+TABLE WITHOUT ID
+	file.link as session,
+	up,
+	created-date,
+	participants,
+	summary
+FROM !"Templates"
+WHERE icontains(up, this.file.link)
+AND icontains(tags, "type/aula")
+SORT filename DESC
+```
+
+## Tarefas e Provas
+
+### Abertas
+``` dataview
+TASK
+WHERE icontains(text, this.file.name)
+AND (icontains(text,"#task") OR icontains(text,"#question"))
+AND !completed
+GROUP BY file.name as filename
+SORT filename Desc
+```
+
+### Fechadas
+```dataview
+TASK
+WHERE icontains(text, this.file.name)
+AND (icontains(text,"#task") OR icontains(text,"#question"))
+AND completed
+GROUP BY file.name as filename
+SORT filename DESC
+```
+
+### Provas
+```dataview
+TASK
+WHERE icontains(text, this.file.name)
+AND icontains(text,"#log/sprint")
+GROUP BY file.name as filename
+SORT filename DESC
+```

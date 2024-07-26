@@ -105,9 +105,7 @@
   ],
   "editor:delete-paragraph": [],
   "templater-obsidian:replace-in-file-templater": [],
-  "templater-obsidian:insert-templater": [],
-  "templater-obsidian:jump-to-next-cursor-location": [],
-  "templater-obsidian:create-new-note-from-template": [
+  "templater-obsidian:insert-templater": [
     {
       "modifiers": [
         "Mod"
@@ -115,6 +113,8 @@
       "key": " "
     }
   ],
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "templater-obsidian:create-new-note-from-template": [],
   "editor:toggle-source": [
     {
       "modifiers": [

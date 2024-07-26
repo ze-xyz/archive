@@ -1,9 +1,9 @@
 ---
 created: 2024-07-03T07:13
-updated: 2024-07-24T13:24
+updated: 2024-07-26T13:42
 ---
 **desenvolvimento**
-- [[MARGINAL GAINS]] → FOCA NA MELHORA DIÁRIA
+- [[marginal gains]] → FOCA NA MELHORA DIÁRIA
 - [[KOLB'S LEARNING CYCLE]] → EXTRAI INFORMAÇÕES RELEVANTE PARA MELHORAR DE FORMA MAIS RAPIDA
 
 
@@ -46,6 +46,6 @@ refazer a `Validação`
 ## REVISÃO
 - full recall
 	- ao iniciar uma revisão tente se lembrar da informação de diferentes ângulos. mapas mentais | falando | ensinando | mini essays | respondendo perguntas
-	- [[como fazer revisões]]
+	- [[técnicas de interleaving retrieval]]
 - espaçamento da revisão
 	- 1 vez por semana, 1 vez por mês

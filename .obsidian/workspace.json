@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "209df04cc3a798d7",
+        "id": "fb52cdacc3e91e46",
         "type": "tabs",
         "children": [
           {
-            "id": "3d327dfefe08eb07",
+            "id": "f196144785e20121",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#semestre01",
+                "query": "ensin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
+    "width": 382.5,
     "collapsed": true
   },
   "right": {
@@ -153,16 +153,6 @@
             }
           },
           {
-            "id": "9c8b01c88a9eb3c4",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Inglês.md"
-              }
-            }
-          },
-          {
             "id": "77fe0747641dfe35",
             "type": "leaf",
             "state": {
@@ -184,12 +174,26 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "24d879dae8f58368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - map of content/MOC - TASK.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
+    "width": 449.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -208,45 +212,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d327dfefe08eb07",
+  "active": "f196144785e20121",
   "lastOpenFiles": [
-    "00 - INDEX/MOC - FACULDADE.md",
-    "05 - Projects/Faculdade/SOC100.md",
-    "05 - Projects/Faculdade/SOC100-W1.md",
-    "05 - Projects/Faculdade/LET110.md",
-    "HOME.md",
     "Obsidian Vault/notes/HOME.md",
-    "01 - LOG/2024-07-24.md",
-    "Inglês.md",
-    "+/Sistema de Estudo.md",
-    "02 - Reference/Cursos/ICS/como fazer revisões.md",
-    "02 - Reference/Cursos/ICS/KOLB'S LEARNING CYCLE.md",
-    "00 - INDEX/MOC - ICANSTUDY.md",
-    "02 - Reference/Cursos/ICS/MARGINAL GAINS.md",
-    "OBJETIVOS.md",
-    "módulo 02 - computação em nuvem.md",
-    "PLANO DE TREINO.md",
-    "REVISÃO.md",
-    "Untitled.md",
-    "99 - meta/templates/marginal gains (template).md",
-    "02 - Reference/Cursos/ICS/fundamentals 1.md",
-    "02 - Reference/Cursos/ICS/HIGH-YIELD PHASE.md",
-    "ED-202407240948.excalidraw.md",
-    "05 - Projects/Campinho digital/módulo 01 - introdução à amazon web services.md",
-    "05 - Projects/Campinho digital/PRÉ-ESTUDO - AWS.md",
-    "AWS.md",
-    "Ciência da Computação.md",
-    "05 - Projects/CR6.100B",
-    "02 - Reference/Livros/Como Ler Livros",
-    "01 - LOG/Monthly",
-    "01 - LOG/Weekley",
-    "01 - LOG/Daily",
-    "06 - Glossário",
-    "05 - Projects/Campinho digital",
-    "05 - Projects/BuJo/TESTE.canvas",
-    "05 - Projects/BuJo",
-    "05 - Projects/Blog",
-    "05 - Projects/Faculdade",
+    "00 - map of content/MOC - FACULDADE.md",
+    "03 - permanent notes/revisão.md",
+    "02 - reference notes/Cursos/ICS/cronograma de revisão.md",
+    "05 - projects/Campinho digital/PRÉ-ESTUDO - AWS.md",
+    "05 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md",
+    "OBJETIVOS DA SEMANA.md",
+    "05 - projects/Faculdade/SOC100 - 1.md",
+    "05 - projects/Faculdade/SOC100.md",
+    "05 - projects/Faculdade/LET110.md",
+    "05 - projects/Faculdade/LET110 - 1.md",
+    "05 - projects/Faculdade/LET110 - 7.md",
+    "05 - projects/Faculdade/COM100.md",
+    "ICANSTUDY.md",
+    "02 - reference notes/Cursos/ICS/fitness training.md",
+    "00 - map of content/MOC - ICANSTUDY.md",
+    "02 - reference notes/Cursos/ICS/técnicas de interleaving retrieval.md",
+    "02 - reference notes/Cursos/ICS/técnicas de interleaving.md",
+    "02 - reference notes/Cursos/ICS/gear check.md",
+    "full recall.md",
+    "02 - reference notes/Cursos/ICS/briefing.md",
+    "02 - reference notes/Cursos/ICS/GROWTH PHASE.md",
+    "03 - permanent notes/Traffic Light System.md",
+    "02 - reference notes/Cursos/ICS/marginal gains.md",
+    "02 - reference notes/Cursos/ICS/o que fazer na prova.md",
+    "SE TORNANDO UM ESTUDANTE MELHOR/scheduling.md",
+    "SE TORNANDO UM ESTUDANTE MELHOR",
+    "03 - permanent notes",
+    "05 - projects/Campinho digital/pre-estudo",
+    "05 - projects/CR6.100B",
+    "02 - reference notes/Livros/Como Ler Livros",
+    "01 - daily/Monthly",
+    "01 - daily/Weekley",
+    "01 - daily/Daily",
+    "04 - Glossário",
+    "05 - projects/Campinho digital",
+    "05 - projects/BuJo/TESTE.canvas",
     "99 - meta/Images/image_2021-06-21_12-33-11.png",
     "99 - meta/Images/Start With How To Read A Book v2.png",
     "99 - meta/Images/Pasted image 20240521074501.png",

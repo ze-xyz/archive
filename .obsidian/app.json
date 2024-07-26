@@ -7,7 +7,7 @@
   "spellcheck": true,
   "strictLineBreaks": false,
   "showLineNumber": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "defaultViewMode": "source",
   "tabSize": 4,
   "livePreview": true,

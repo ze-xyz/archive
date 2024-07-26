@@ -1,15 +1,15 @@
 {
   "accentColor": "#007aff",
   "cssTheme": "Minimal",
-  "textFontFamily": "SF Mono Light",
+  "textFontFamily": "pitch",
   "enabledCssSnippets": [
     "Minimal",
     "Colored Sidebar Items"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 18,
-  "interfaceFontFamily": "Latin Modern Sans 10",
-  "monospaceFontFamily": "Latin Modern Mono 10",
+  "baseFontSize": 22,
+  "interfaceFontFamily": "Pitch",
+  "monospaceFontFamily": "Pitch",
   "nativeMenus": false,
   "showViewHeader": false,
   "theme": "moonstone"
