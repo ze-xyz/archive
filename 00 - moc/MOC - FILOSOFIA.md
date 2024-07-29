@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T19:29
-updated: 2024-07-28T20:32
+updated: 2024-07-29T12:23
 type: "[[index]]"
 ---
 ## Filosofia Prática

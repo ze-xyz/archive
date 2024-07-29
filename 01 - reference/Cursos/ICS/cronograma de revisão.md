@@ -1,8 +1,10 @@
 ---
-cssclasses:
-  - wotc-beyond
-created: 2024-07-03T07:13
-updated: 2024-07-26T13:39
+created: 2024-07-29T12:26
+updated: 2024-07-29T12:37
+tags:
+  - ICS
+type: revisão
+level: 
 ---
 ## Pontos Importantes
 1. na duvida de definir seu cronograma de revisão

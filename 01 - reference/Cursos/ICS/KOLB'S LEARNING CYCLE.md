@@ -2,7 +2,7 @@
 tags:
   - kolb
 created: 2024-04-04T21:05
-updated: 2024-04-05T05:47
+updated: 2024-07-29T12:19
 ---
 ## QUAL SUA EXPERIÊNCIA?
 

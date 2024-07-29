@@ -1,10 +1,14 @@
+---
+created: 2024-07-29T06:51
+updated: 2024-07-29T12:19
+---
 Aqui estão as tabelas formatadas:
 
 ### Seção 1: Aptidão Atual
 
 | Pergunta                                                                                                  | Better                 | Neutral     | Worse              |
 | --------------------------------------------------------------------------------------------------------- | ---------------------- | ----------- | ------------------ |
-| Quantas horas você estuda por semana em média (excluindo a escola)?                                       | <15 *x*                | 15 a 30     | >30                |
+| Quantas horas você estuda por semana em média (excluindo a escola)?                                       | <15 x                  | 15 a 30     | >30                |
 | Qual porcentagem do seu tempo de estudo é gasto escrevendo anotações?                                     | <20%                   | 20 a 50%    | >50% x             |
 | Com que frequência você faz perguntas durante a aula ou no autoestudo (seja em voz alta ou em sua mente)? | Muito frequentemente   | Às vezes x  | Raramente          |
 | Com que frequência você pensa sobre a eficiência da sua técnica de estudo?                                | Muito frequentemente x | Às vezes    | Raramente          |

@@ -1,6 +1,6 @@
 ---
 created: 2024-07-10T08:13
-updated: 2024-07-26T14:34
+updated: 2024-07-29T08:49
 type: "[[index]]"
 ---
 ## DISCIPLINAS ABERTAS
@@ -15,12 +15,13 @@ AND icontains(tags, "type/disciplina")
 SORT file.name ASC
 ```
 
-## SEMANAS 1
+## SEMANAS ABERTAS
 ```dataview
 TABLE WITHOUT ID
 	file.link as "Disciplina",
 	tema
 FROM !"Templates"
 WHERE icontains(Semana, "1")
+AND icontains(tags, "status/active")
 SORT file.name ASC
 ```

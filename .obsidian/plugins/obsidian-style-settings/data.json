@@ -131,5 +131,10 @@
   "sanctum@@h1-font": "\"Latin Modern Roman 10\", \"Latin Modern Roman\"",
   "sanctum@@h2-font": "\"Latin Modern Roman 10\", \"Latin Modern Roman\"",
   "sanctum@@h3-font": "\"Latin Modern Roman 10\", \"Latin Modern Roman\"",
-  "minimal-style@@h2-l": true
+  "minimal-style@@h2-l": true,
+  "minimal-style@@tx1@@light": "#393939",
+  "minimal-style@@bold-color@@light": "#000000",
+  "minimal-style@@bold-color@@dark": "#FFFFFF",
+  "minimal-style@@italic-color@@light": "#000000",
+  "minimal-style@@italic-color@@dark": "#FFFFFF"
 }

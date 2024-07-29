@@ -10,7 +10,7 @@
   "propertiesInDocument": "visible",
   "defaultViewMode": "source",
   "tabSize": 4,
-  "livePreview": true,
+  "livePreview": false,
   "readableLineLength": false,
   "showInlineTitle": true,
   "pdfExportSettings": {

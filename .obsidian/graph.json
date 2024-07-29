@@ -8,38 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"00 - INDEX\"  ",
+      "query": "path:\"00 - moc\"  ",
       "color": {
         "a": 1,
         "rgb": 31487
       }
     },
     {
-      "query": "path:\"01 - LOG\"  ",
+      "query": "path:\"04 - projects/Faculdade\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:\"02 - Reference\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15073280
-      }
-    },
-    {
-      "query": "path:\"05 - Projects\"   ",
-      "color": {
-        "a": 1,
-        "rgb": 16776960
-      }
-    },
-    {
-      "query": "path:\"05 - Projects/Faculdade\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3108656
+        "rgb": 16711680
       }
     }
   ],

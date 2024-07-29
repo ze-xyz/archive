@@ -1,9 +1,9 @@
 ---
 created: 2024-07-26T10:43
-updated: 2024-07-26T13:33
+updated: 2024-07-29T12:23
 up: "[[técnicas de estudo]]"
 tags:
-  - study-skill
+  - ICS
 type: self-improvement
 level: high-yield/fundamental-1
 ---

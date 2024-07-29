@@ -1,3 +1,7 @@
+---
+created: 2024-07-29T06:51
+updated: 2024-07-29T12:19
+---
 
 **pre-estudo**
 pré-estudo melhora a retenção, engajamento e aproveitamento na aula

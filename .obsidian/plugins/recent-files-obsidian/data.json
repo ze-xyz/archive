@@ -1,192 +1,200 @@
 {
   "recentFiles": [
     {
-      "basename": "ICANSTUDY",
-      "path": "ICANSTUDY.md"
+      "basename": "MOC - ICANSTUDY",
+      "path": "00 - moc/MOC - ICANSTUDY.md"
     },
     {
-      "basename": "Inglês",
-      "path": "Inglês.md"
+      "basename": "introduction",
+      "path": "introduction.md"
     },
     {
-      "basename": "COM100 - 1",
-      "path": "04 - projects/Faculdade/COM100 - 1.md"
-    },
-    {
-      "basename": "TESTE",
-      "path": "04 - projects/BuJo/TESTE.canvas"
-    },
-    {
-      "basename": "técnicas de estudo",
-      "path": "ics technique/técnicas de estudo.md"
-    },
-    {
-      "basename": "00 - HOME",
-      "path": "00 - HOME.md"
-    },
-    {
-      "basename": "00 - PRÉ-ESTUDO - AWS",
-      "path": "04 - projects/Campinho digital/pre-estudo/00 - PRÉ-ESTUDO - AWS.md"
-    },
-    {
-      "basename": "BEDS-M",
-      "path": "ics technique/BEDS-M.md"
-    },
-    {
-      "basename": "MOC - FACULDADE",
-      "path": "MOC - FACULDADE.md"
-    },
-    {
-      "basename": "LET110",
-      "path": "04 - projects/Faculdade/LET110.md"
-    },
-    {
-      "basename": "semana (template)",
-      "path": "99 - meta/templates/semana (template).md"
-    },
-    {
-      "basename": "LET110 - 1",
-      "path": "04 - projects/Faculdade/LET110 - 1.md"
-    },
-    {
-      "basename": "disciplina (template)",
-      "path": "99 - meta/templates/disciplina (template).md"
-    },
-    {
-      "basename": "COM100",
-      "path": "04 - projects/Faculdade/COM100.md"
-    },
-    {
-      "basename": "SOC100",
-      "path": "04 - projects/Faculdade/SOC100.md"
-    },
-    {
-      "basename": "SOC100 - 7",
-      "path": "04 - projects/Faculdade/SOC100 - 7.md"
-    },
-    {
-      "basename": "SOC100 - 6",
-      "path": "04 - projects/Faculdade/SOC100 - 6.md"
-    },
-    {
-      "basename": "SOC100 - 5",
-      "path": "04 - projects/Faculdade/SOC100 - 5.md"
-    },
-    {
-      "basename": "SOC100 - 4",
-      "path": "04 - projects/Faculdade/SOC100 - 4.md"
-    },
-    {
-      "basename": "SOC100 - 3",
-      "path": "04 - projects/Faculdade/SOC100 - 3.md"
-    },
-    {
-      "basename": "SOC100 - 2",
-      "path": "04 - projects/Faculdade/SOC100 - 2.md"
-    },
-    {
-      "basename": "SOC100 - 1",
-      "path": "04 - projects/Faculdade/SOC100 - 1.md"
-    },
-    {
-      "basename": "PLANO DE TREINO",
-      "path": "PLANO DE TREINO.md"
-    },
-    {
-      "basename": "revisão",
-      "path": "ics technique/revisão.md"
+      "basename": "Fundamentals 1",
+      "path": "Fundamentals 1.md"
     },
     {
       "basename": "cronograma de revisão",
       "path": "01 - reference/Cursos/ICS/cronograma de revisão.md"
     },
     {
-      "basename": "PRÉ-ESTUDO - AWS",
-      "path": "05 - projects/Campinho digital/PRÉ-ESTUDO - AWS.md"
+      "basename": "BarghChartrand2000",
+      "path": "01 - reference/Cursos/ICS/BarghChartrand2000.pdf"
     },
     {
-      "basename": "M00 - TECHNO FUNCTIONAL SOFT SKILLS",
-      "path": "05 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md"
-    },
-    {
-      "basename": "SOC100 - 1",
-      "path": "05 - projects/Faculdade/SOC100 - 1.md"
-    },
-    {
-      "basename": "SOC100",
-      "path": "05 - projects/Faculdade/SOC100.md"
-    },
-    {
-      "basename": "LET110",
-      "path": "05 - projects/Faculdade/LET110.md"
-    },
-    {
-      "basename": "LET110 - 1",
-      "path": "05 - projects/Faculdade/LET110 - 1.md"
-    },
-    {
-      "basename": "LET110 - 7",
-      "path": "05 - projects/Faculdade/LET110 - 7.md"
-    },
-    {
-      "basename": "COM100",
-      "path": "05 - projects/Faculdade/COM100.md"
-    },
-    {
-      "basename": "fitness training",
-      "path": "01 - reference/Cursos/ICS/fitness training.md"
-    },
-    {
-      "basename": "MOC - ICANSTUDY",
-      "path": "00 - moc/MOC - ICANSTUDY.md"
-    },
-    {
-      "basename": "técnicas de interleaving retrieval",
-      "path": "01 - reference/Cursos/ICS/técnicas de interleaving retrieval.md"
-    },
-    {
-      "basename": "gear check",
-      "path": "01 - reference/Cursos/ICS/gear check.md"
-    },
-    {
-      "basename": "Traffic Light System",
-      "path": "ics technique/Traffic Light System.md"
+      "basename": "MOC - FILOSOFIA",
+      "path": "00 - moc/MOC - FILOSOFIA.md"
     },
     {
       "basename": "marginal gains",
       "path": "01 - reference/Cursos/ICS/marginal gains.md"
     },
     {
+      "basename": "spacing interleaving and retrieval",
+      "path": "01 - reference/Cursos/ICS/spacing interleaving and retrieval.md"
+    },
+    {
+      "basename": "ics (template)",
+      "path": "99 - meta/templates/ics (template).md"
+    },
+    {
+      "basename": "aprendizagem mecânica - decoreba",
+      "path": "01 - reference/Cursos/ICS/aprendizagem mecânica - decoreba.md"
+    },
+    {
       "basename": "o que fazer na prova",
       "path": "01 - reference/Cursos/ICS/o que fazer na prova.md"
     },
     {
-      "basename": "scheduling",
-      "path": "ics technique/scheduling.md"
+      "basename": "o que fazer em aula",
+      "path": "01 - reference/Cursos/ICS/o que fazer em aula.md"
     },
     {
-      "basename": "fundamentals 2",
-      "path": "01 - reference/Cursos/ICS/fundamentals 2.md"
+      "basename": "KOLB'S LEARNING CYCLE",
+      "path": "01 - reference/Cursos/ICS/KOLB'S LEARNING CYCLE.md"
     },
     {
-      "basename": "30 days plan",
-      "path": "01 - reference/Cursos/ICS/30 days plan.md"
+      "basename": "gear check",
+      "path": "01 - reference/Cursos/ICS/gear check.md"
     },
     {
-      "basename": "fundamentals 1",
-      "path": "01 - reference/Cursos/ICS/fundamentals 1.md"
+      "basename": "fitness training",
+      "path": "01 - reference/Cursos/ICS/fitness training.md"
     },
     {
-      "basename": "HIGH-YIELD PHASE",
-      "path": "01 - reference/Cursos/ICS/HIGH-YIELD PHASE.md"
+      "basename": "00 - HOME",
+      "path": "00 - HOME.md"
     },
     {
-      "basename": "technique training",
-      "path": "01 - reference/Cursos/ICS/technique training.md"
+      "basename": "técnicas de estudo",
+      "path": "ics technique/técnicas de estudo.md"
     },
     {
-      "basename": "pré-estudo",
-      "path": "ics technique/pré-estudo.md"
+      "basename": "MOC - FACULDADE",
+      "path": "00 - moc/MOC - FACULDADE.md"
+    },
+    {
+      "basename": "SOC100 - 1",
+      "path": "04 - projects/Faculdade/SOC100 - 1.md"
+    },
+    {
+      "basename": "MOC - NFF",
+      "path": "00 - moc/MOC - NFF.md"
+    },
+    {
+      "basename": "FASE CURIOSO",
+      "path": "01 - reference/Cursos/NFF/FASE CURIOSO.md"
+    },
+    {
+      "basename": "TRILHAS NFF",
+      "path": "01 - reference/Cursos/NFF/TRILHAS NFF.md"
+    },
+    {
+      "basename": "CURSO FILOSOFIA PRÁTICA",
+      "path": "01 - reference/Cursos/NFF/CURSO FILOSOFIA PRÁTICA.md"
+    },
+    {
+      "basename": "MÉTODO TEA",
+      "path": "01 - reference/Cursos/NFF/MÉTODO TEA.md"
+    },
+    {
+      "basename": "CURSO MANUSCRITOS MILENARES",
+      "path": "01 - reference/Cursos/NFF/CURSO MANUSCRITOS MILENARES.md"
+    },
+    {
+      "basename": "NFF CURSO (template)",
+      "path": "99 - meta/templates/NFF CURSO (template).md"
+    },
+    {
+      "basename": "CURSO MODO SIDARTA",
+      "path": "01 - reference/Cursos/NFF/CURSO MODO SIDARTA.md"
+    },
+    {
+      "basename": "disciplina (template)",
+      "path": "99 - meta/templates/disciplina (template).md"
+    },
+    {
+      "basename": "COMO LER POESIA",
+      "path": "01 - reference/Cursos/NFF/COMO LER POESIA.md"
+    },
+    {
+      "basename": "COMO LER  NARRATIVAS",
+      "path": "01 - reference/Cursos/NFF/COMO LER  NARRATIVAS.md"
+    },
+    {
+      "basename": "CURSO ARGUMENTAÇÃO DA PRÁTICA 4",
+      "path": "01 - reference/Cursos/NFF/CURSO ARGUMENTAÇÃO DA PRÁTICA 4.md"
+    },
+    {
+      "basename": "CURSO ARGUMENTAÇÃO DA PRÁTICA 3",
+      "path": "01 - reference/Cursos/NFF/CURSO ARGUMENTAÇÃO DA PRÁTICA 3.md"
+    },
+    {
+      "basename": "CURSO ARGUMENTAÇÃO DA PRÁTICA 2",
+      "path": "01 - reference/Cursos/NFF/CURSO ARGUMENTAÇÃO DA PRÁTICA 2.md"
+    },
+    {
+      "basename": "CURSO ARGUMENTAÇÃO DA PRÁTICA 1",
+      "path": "01 - reference/Cursos/NFF/CURSO ARGUMENTAÇÃO DA PRÁTICA 1.md"
+    },
+    {
+      "basename": "CURSO O MAPA DO TEXTO",
+      "path": "01 - reference/Cursos/NFF/CURSO O MAPA DO TEXTO.md"
+    },
+    {
+      "basename": "CURSO DECIDA PENSAR DIFERENTE",
+      "path": "01 - reference/Cursos/NFF/CURSO DECIDA PENSAR DIFERENTE.md"
+    },
+    {
+      "basename": "CURSO GUIA PRÁTICO DE LEITURAS FILOSOFICAS",
+      "path": "01 - reference/Cursos/NFF/CURSO GUIA PRÁTICO DE LEITURAS FILOSOFICAS.md"
+    },
+    {
+      "basename": "CURSO HISTÓRIA DA FILOSOFIA",
+      "path": "01 - reference/Cursos/NFF/CURSO HISTÓRIA DA FILOSOFIA.md"
+    },
+    {
+      "basename": "CURSO DO ILUMINISMO AOS MARXISMOS",
+      "path": "01 - reference/Cursos/NFF/CURSO DO ILUMINISMO AOS MARXISMOS.md"
+    },
+    {
+      "basename": "CURSO FILOSOFIA CONTEMPORÂNEA",
+      "path": "01 - reference/Cursos/NFF/CURSO FILOSOFIA CONTEMPORÂNEA.md"
+    },
+    {
+      "basename": "CURSO PROBLEMAS DA FILOSOFIA",
+      "path": "01 - reference/Cursos/NFF/CURSO PROBLEMAS DA FILOSOFIA.md"
+    },
+    {
+      "basename": "CURSO INTRODUÇÃO GERAL À FILOSOFIA",
+      "path": "01 - reference/Cursos/NFF/CURSO INTRODUÇÃO GERAL À FILOSOFIA.md"
+    },
+    {
+      "basename": "CURIOSO",
+      "path": "01 - reference/Cursos/NFF/CURIOSO.md"
+    },
+    {
+      "basename": "COM100 - 1",
+      "path": "04 - projects/Faculdade/COM100 - 1.md"
+    },
+    {
+      "basename": "COM100 - 3",
+      "path": "04 - projects/Faculdade/COM100 - 3.md"
+    },
+    {
+      "basename": "COM100 - 2",
+      "path": "04 - projects/Faculdade/COM100 - 2.md"
+    },
+    {
+      "basename": "COM100 - 7",
+      "path": "04 - projects/Faculdade/COM100 - 7.md"
+    },
+    {
+      "basename": "COM100 - 6",
+      "path": "04 - projects/Faculdade/COM100 - 6.md"
+    },
+    {
+      "basename": "COM100 - 5",
+      "path": "04 - projects/Faculdade/COM100 - 5.md"
     }
   ],
   "omittedPaths": [],

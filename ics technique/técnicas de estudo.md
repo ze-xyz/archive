@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T07:44
-updated: 2024-07-26T13:33
+updated: 2024-07-29T12:13
 ---
 ```dataview
 TABLE WITHOUT ID

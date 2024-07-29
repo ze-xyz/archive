@@ -1,3 +1,7 @@
+---
+created: 2024-07-29T06:51
+updated: 2024-07-29T12:17
+---
 *aprendizagem mecânica é a informação aprendida em maior parte pela repetição, ao invés da compreensão dos conceitos*.
 
 DEVE SER USADA COMO ÚLTIMO RECURSO

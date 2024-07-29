@@ -1,1 +1,0 @@
-![[BarghChartrand2000.pdf]]

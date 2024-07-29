@@ -1,13 +1,13 @@
 {
   "accentColor": "#007aff",
   "cssTheme": "Minimal",
-  "textFontFamily": "Courier Prime",
+  "textFontFamily": "Pitch",
   "enabledCssSnippets": [
     "Minimal"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 21,
-  "interfaceFontFamily": "Courier Prime",
+  "baseFontSize": 24,
+  "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "Pitch",
   "nativeMenus": false,
   "showViewHeader": false,

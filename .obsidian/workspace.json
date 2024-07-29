@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7adaf4caf0585e1f",
+        "id": "a9d7967cb5c37baf",
         "type": "tabs",
         "children": [
           {
-            "id": "4ffdf46028866c79",
+            "id": "9d63179ff84405bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICANSTUDY.md",
+                "file": "00 - moc/MOC - ICANSTUDY.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "ace26239e8ccc29a",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICANSTUDY.md"
+                "file": "00 - moc/MOC - ICANSTUDY.md"
               }
             }
           },
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICANSTUDY.md",
+                "file": "00 - moc/MOC - ICANSTUDY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICANSTUDY.md",
+                "file": "00 - moc/MOC - ICANSTUDY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
                 "file": "00 - moc/MOC - TASK.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -211,36 +212,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ffdf46028866c79",
+  "active": "9d63179ff84405bc",
   "lastOpenFiles": [
-    "Inglês.md",
-    "04 - projects/Faculdade/COM100 - 1.md",
+    "introduction.md",
+    "Fundamentals 1.md",
+    "00 - moc/MOC - ICANSTUDY.md",
+    "01 - reference/Cursos/ICS/técnicas de retrieval.md",
+    "01 - reference/Cursos/ICS/cronograma de revisão.md",
+    "01 - reference/Cursos/ICS/BarghChartrand2000.pdf",
+    "00 - moc/MOC - FILOSOFIA.md",
+    "dicas de revisão espaçada.md",
+    "01 - reference/Cursos/ICS/marginal gains.md",
+    "01 - reference/Cursos/ICS/spacing interleaving and retrieval.md",
+    "99 - meta/templates/ics (template).md",
+    "01 - reference/Cursos/ICS/técnicas de interleaving retrieval.md",
+    "ESTUDO.md",
+    "01 - reference/Cursos/ICS/aprendizagem mecânica - decoreba.md",
+    "01 - reference/Cursos/ICS/30 days plan.md",
+    "01 - reference/Cursos/ICS/9 - scheduling.md",
+    "01 - reference/Cursos/ICS/the mind in the middle - A practical guide to priming and automaticity research.md",
+    "01 - reference/Cursos/ICS/tomando notas.md",
+    "01 - reference/Cursos/ICS/TÉCNICAS.md",
+    "01 - reference/Cursos/ICS/o que fazer na prova.md",
+    "01 - reference/Cursos/ICS/technique training.md",
+    "01 - reference/Cursos/ICS/sleep-dependent memory consolidation 1.md",
+    "01 - reference/Cursos/ICS/sleep-dependent memory consolidation.md",
+    "01 - reference/Cursos/ICS/right vs wrong way to practice.md",
+    "01 - reference/Cursos/ICS/Objetivos de Performance.md",
+    "01 - reference/Cursos/ICS/o que fazer em aula.md",
+    "01 - reference/Cursos/ICS/KOLB'S LEARNING CYCLE.md",
     "04 - projects/BuJo/TESTE.canvas",
-    "ics technique/técnicas de estudo.md",
-    "00 - HOME.md",
     "ETC",
-    "ICANSTUDY.md",
-    "04 - projects/Campinho digital/pre-estudo/00 - PRÉ-ESTUDO - AWS.md",
-    "Untitled.md",
-    "ETC/+/cc.md",
-    "ETC/+/Sistema de Estudo.md",
-    "01 - daily/2024-07-21.md",
-    "01 - daily/2024-07-22.md",
-    "01 - daily/2024-07-23.md",
-    "01 - daily/2024-07-24.md",
-    "ics technique/BEDS-M.md",
-    "Amazon Leadership Principles.md",
-    "Untitled 1.md",
-    "OBJETIVOS DA SEMANA.md",
-    "MOC - FACULDADE.md",
-    "04 - projects/Faculdade/LET110.md",
-    "99 - meta/templates/semana (template).md",
-    "04 - projects/Faculdade/LET110 - 1.md",
-    "99 - meta/templates/disciplina (template).md",
-    "LET110 - 1.md",
-    "04 - projects/Faculdade/COM100.md",
-    "04 - projects/Faculdade/SOC100.md",
-    "04 - projects/Faculdade/SOC100 - 7.md",
     "ics technique",
     "02 - permanent",
     "05 - projects/Campinho digital/pre-estudo",
@@ -249,7 +251,6 @@
     "01 - daily/Monthly",
     "01 - daily/Weekley",
     "01 - daily/Daily",
-    "03 - glossário",
     "05 - projects/BuJo/TESTE.canvas",
     "99 - meta/Images/image_2021-06-21_12-33-11.png",
     "99 - meta/Images/Start With How To Read A Book v2.png",

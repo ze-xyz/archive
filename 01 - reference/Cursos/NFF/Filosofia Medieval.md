@@ -1,6 +1,0 @@
-- introdução
-- agostinho de hipona
-- boécio e anselmo de cantuária
-- tomás de aquino
-- guilherme ockham
-- panograma da filosofia medieval

@@ -1,6 +1,6 @@
 ---
 created: 2024-04-11T07:42
-updated: 2024-07-26T13:42
+updated: 2024-07-29T12:25
 up: "[[03 - Reference/course/icanstudy/MOC - ICanStudy]]"
 tags:
   - fundamentals-1
@@ -59,11 +59,6 @@ Um estudo fácil é satisfatório e nos da a sensação de aprendizado, mas na p
 ## Como conseguir um bom aprendizado?
 como vimos anteriormente, aprendizado = altos níveis de *encoding* e *retrieval* e pra atingir isso devemos entender as **OS 3 PILARES DO APRENDIZADO**
 toda técnica aprendida abrange um desses pilares.
-**SPACING** -> espaçar os períodos de [[técnicas de interleaving retrieval]] 
+**SPACING** -> espaçar os períodos de estudo
 **INTERLEAVING** -> usar a informação sobre algo em diferentes ângulos 
 **RETRIEVAL** -> pegar informações da *long term memory* e mandar para a  *working memory*
-
-## ver também
-- [[técnicas de interleaving retrieval]]
-- [[técnicas de interleaving]]
-- [[técnicas de retrieval]]

@@ -1,0 +1,16 @@
+---
+created: 2024-07-29T09:03
+updated: 2024-07-29T10:00
+type: "[[index]]"
+---
+[[MÉTODO TEA]]
+## Fases:
+THAUMAZEIN
+- [[FASE CURIOSO]]
+EPOCHÉ
+- [[FASE INVESTIGADOR]]
+AUFHEBUNG
+- [[FASE DEBATEDOR]]
+- [[FASE PENSADOR]]
+
+[[TRILHAS NFF]]
