@@ -1,14 +1,13 @@
 {
   "accentColor": "#007aff",
   "cssTheme": "Minimal",
-  "textFontFamily": "pitch",
+  "textFontFamily": "Courier Prime",
   "enabledCssSnippets": [
-    "Minimal",
-    "Colored Sidebar Items"
+    "Minimal"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 22,
-  "interfaceFontFamily": "Pitch",
+  "baseFontSize": 21,
+  "interfaceFontFamily": "Courier Prime",
   "monospaceFontFamily": "Pitch",
   "nativeMenus": false,
   "showViewHeader": false,

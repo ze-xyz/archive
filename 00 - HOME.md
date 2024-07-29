@@ -1,8 +1,8 @@
 ---
 created: 2024-07-10T10:18
-updated: 2024-07-26T13:11
+updated: 2024-07-28T20:25
 ---
-[[TÉCNICAS DE ESTUDO]]
+[[técnicas de estudo]]
 
 
 ```dataview

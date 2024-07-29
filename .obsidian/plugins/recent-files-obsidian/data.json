@@ -1,24 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "ICANSTUDY",
+      "path": "ICANSTUDY.md"
+    },
+    {
       "basename": "Inglês",
       "path": "Inglês.md"
     },
     {
-      "basename": "HOME",
-      "path": "Obsidian Vault/notes/HOME.md"
+      "basename": "COM100 - 1",
+      "path": "04 - projects/Faculdade/COM100 - 1.md"
+    },
+    {
+      "basename": "TESTE",
+      "path": "04 - projects/BuJo/TESTE.canvas"
+    },
+    {
+      "basename": "técnicas de estudo",
+      "path": "ics technique/técnicas de estudo.md"
+    },
+    {
+      "basename": "00 - HOME",
+      "path": "00 - HOME.md"
+    },
+    {
+      "basename": "00 - PRÉ-ESTUDO - AWS",
+      "path": "04 - projects/Campinho digital/pre-estudo/00 - PRÉ-ESTUDO - AWS.md"
+    },
+    {
+      "basename": "BEDS-M",
+      "path": "ics technique/BEDS-M.md"
     },
     {
       "basename": "MOC - FACULDADE",
-      "path": "00 - map of content/MOC - FACULDADE.md"
+      "path": "MOC - FACULDADE.md"
+    },
+    {
+      "basename": "LET110",
+      "path": "04 - projects/Faculdade/LET110.md"
+    },
+    {
+      "basename": "semana (template)",
+      "path": "99 - meta/templates/semana (template).md"
+    },
+    {
+      "basename": "LET110 - 1",
+      "path": "04 - projects/Faculdade/LET110 - 1.md"
+    },
+    {
+      "basename": "disciplina (template)",
+      "path": "99 - meta/templates/disciplina (template).md"
+    },
+    {
+      "basename": "COM100",
+      "path": "04 - projects/Faculdade/COM100.md"
+    },
+    {
+      "basename": "SOC100",
+      "path": "04 - projects/Faculdade/SOC100.md"
+    },
+    {
+      "basename": "SOC100 - 7",
+      "path": "04 - projects/Faculdade/SOC100 - 7.md"
+    },
+    {
+      "basename": "SOC100 - 6",
+      "path": "04 - projects/Faculdade/SOC100 - 6.md"
+    },
+    {
+      "basename": "SOC100 - 5",
+      "path": "04 - projects/Faculdade/SOC100 - 5.md"
+    },
+    {
+      "basename": "SOC100 - 4",
+      "path": "04 - projects/Faculdade/SOC100 - 4.md"
+    },
+    {
+      "basename": "SOC100 - 3",
+      "path": "04 - projects/Faculdade/SOC100 - 3.md"
+    },
+    {
+      "basename": "SOC100 - 2",
+      "path": "04 - projects/Faculdade/SOC100 - 2.md"
+    },
+    {
+      "basename": "SOC100 - 1",
+      "path": "04 - projects/Faculdade/SOC100 - 1.md"
+    },
+    {
+      "basename": "PLANO DE TREINO",
+      "path": "PLANO DE TREINO.md"
     },
     {
       "basename": "revisão",
-      "path": "03 - permanent notes/revisão.md"
+      "path": "ics technique/revisão.md"
     },
     {
       "basename": "cronograma de revisão",
-      "path": "02 - reference notes/Cursos/ICS/cronograma de revisão.md"
+      "path": "01 - reference/Cursos/ICS/cronograma de revisão.md"
     },
     {
       "basename": "PRÉ-ESTUDO - AWS",
@@ -27,10 +107,6 @@
     {
       "basename": "M00 - TECHNO FUNCTIONAL SOFT SKILLS",
       "path": "05 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md"
-    },
-    {
-      "basename": "OBJETIVOS DA SEMANA",
-      "path": "OBJETIVOS DA SEMANA.md"
     },
     {
       "basename": "SOC100 - 1",
@@ -57,148 +133,60 @@
       "path": "05 - projects/Faculdade/COM100.md"
     },
     {
-      "basename": "ICANSTUDY",
-      "path": "ICANSTUDY.md"
-    },
-    {
       "basename": "fitness training",
-      "path": "02 - reference notes/Cursos/ICS/fitness training.md"
+      "path": "01 - reference/Cursos/ICS/fitness training.md"
     },
     {
       "basename": "MOC - ICANSTUDY",
-      "path": "00 - map of content/MOC - ICANSTUDY.md"
+      "path": "00 - moc/MOC - ICANSTUDY.md"
     },
     {
       "basename": "técnicas de interleaving retrieval",
-      "path": "02 - reference notes/Cursos/ICS/técnicas de interleaving retrieval.md"
+      "path": "01 - reference/Cursos/ICS/técnicas de interleaving retrieval.md"
     },
     {
       "basename": "gear check",
-      "path": "02 - reference notes/Cursos/ICS/gear check.md"
+      "path": "01 - reference/Cursos/ICS/gear check.md"
     },
     {
       "basename": "Traffic Light System",
-      "path": "03 - permanent notes/Traffic Light System.md"
+      "path": "ics technique/Traffic Light System.md"
     },
     {
       "basename": "marginal gains",
-      "path": "02 - reference notes/Cursos/ICS/marginal gains.md"
+      "path": "01 - reference/Cursos/ICS/marginal gains.md"
     },
     {
       "basename": "o que fazer na prova",
-      "path": "02 - reference notes/Cursos/ICS/o que fazer na prova.md"
+      "path": "01 - reference/Cursos/ICS/o que fazer na prova.md"
     },
     {
       "basename": "scheduling",
-      "path": "SE TORNANDO UM ESTUDANTE MELHOR/scheduling.md"
-    },
-    {
-      "basename": "técnicas de estudo",
-      "path": "03 - permanent notes/técnicas de estudo.md"
-    },
-    {
-      "basename": "BEDS-M",
-      "path": "SE TORNANDO UM ESTUDANTE MELHOR/BEDS-M.md"
+      "path": "ics technique/scheduling.md"
     },
     {
       "basename": "fundamentals 2",
-      "path": "02 - reference notes/Cursos/ICS/fundamentals 2.md"
+      "path": "01 - reference/Cursos/ICS/fundamentals 2.md"
     },
     {
       "basename": "30 days plan",
-      "path": "02 - reference notes/Cursos/ICS/30 days plan.md"
+      "path": "01 - reference/Cursos/ICS/30 days plan.md"
     },
     {
       "basename": "fundamentals 1",
-      "path": "02 - reference notes/Cursos/ICS/fundamentals 1.md"
+      "path": "01 - reference/Cursos/ICS/fundamentals 1.md"
     },
     {
       "basename": "HIGH-YIELD PHASE",
-      "path": "02 - reference notes/Cursos/ICS/HIGH-YIELD PHASE.md"
+      "path": "01 - reference/Cursos/ICS/HIGH-YIELD PHASE.md"
     },
     {
       "basename": "technique training",
-      "path": "02 - reference notes/Cursos/ICS/technique training.md"
+      "path": "01 - reference/Cursos/ICS/technique training.md"
     },
     {
       "basename": "pré-estudo",
-      "path": "03 - permanent notes/pré-estudo.md"
-    },
-    {
-      "basename": "spacing, interleaving and retrieval",
-      "path": "02 - reference notes/Cursos/ICS/spacing, interleaving and retrieval.md"
-    },
-    {
-      "basename": "disciplina (template)",
-      "path": "99 - meta/templates/disciplina (template).md"
-    },
-    {
-      "basename": "study skill (template)",
-      "path": "99 - meta/templates/study skill (template).md"
-    },
-    {
-      "basename": "00 - HOME",
-      "path": "00 - HOME.md"
-    },
-    {
-      "basename": "log sprint (template)",
-      "path": "Obsidian Vault/templates/log sprint (template).md"
-    },
-    {
-      "basename": "moc (template)",
-      "path": "Obsidian Vault/templates/moc (template).md"
-    },
-    {
-      "basename": "monthly note (template)",
-      "path": "Obsidian Vault/templates/monthly note (template).md"
-    },
-    {
-      "basename": "9 - scheduling",
-      "path": "02 - reference notes/Cursos/ICS/9 - scheduling.md"
-    },
-    {
-      "basename": "MOC - TASK",
-      "path": "00 - map of content/MOC - TASK.md"
-    },
-    {
-      "basename": "MOC - CAMPINHO DIGITAL",
-      "path": "00 - map of content/MOC - CAMPINHO DIGITAL.md"
-    },
-    {
-      "basename": "MEUS OBJETIVOS",
-      "path": "MEUS OBJETIVOS.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "LET110 - 8",
-      "path": "05 - projects/Faculdade/LET110 - 8.md"
-    },
-    {
-      "basename": "202401211512 Notebook CSS Classes",
-      "path": "99 - meta/preloaded Classes/202401211512 Notebook CSS Classes.md"
-    },
-    {
-      "basename": "LET110 - 6",
-      "path": "05 - projects/Faculdade/LET110 - 6.md"
-    },
-    {
-      "basename": "LET110 - 5",
-      "path": "05 - projects/Faculdade/LET110 - 5.md"
-    },
-    {
-      "basename": "LET110 - 4",
-      "path": "05 - projects/Faculdade/LET110 - 4.md"
-    },
-    {
-      "basename": "LET110 - 3",
-      "path": "05 - projects/Faculdade/LET110 - 3.md"
-    },
-    {
-      "basename": "LET110 - 2",
-      "path": "05 - projects/Faculdade/LET110 - 2.md"
+      "path": "ics technique/pré-estudo.md"
     }
   ],
   "omittedPaths": [],

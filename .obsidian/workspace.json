@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fb52cdacc3e91e46",
+        "id": "7adaf4caf0585e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "f196144785e20121",
+            "id": "4ffdf46028866c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês.md",
+                "file": "ICANSTUDY.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -66,13 +67,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "ace26239e8ccc29a",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglês.md"
+                "file": "ICANSTUDY.md"
               }
             }
           },
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglês.md",
+                "file": "ICANSTUDY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglês.md",
+                "file": "ICANSTUDY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - map of content/MOC - TASK.md",
+                "file": "00 - moc/MOC - TASK.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -212,44 +211,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f196144785e20121",
+  "active": "4ffdf46028866c79",
   "lastOpenFiles": [
-    "Obsidian Vault/notes/HOME.md",
-    "00 - map of content/MOC - FACULDADE.md",
-    "03 - permanent notes/revisão.md",
-    "02 - reference notes/Cursos/ICS/cronograma de revisão.md",
-    "05 - projects/Campinho digital/PRÉ-ESTUDO - AWS.md",
-    "05 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md",
-    "OBJETIVOS DA SEMANA.md",
-    "05 - projects/Faculdade/SOC100 - 1.md",
-    "05 - projects/Faculdade/SOC100.md",
-    "05 - projects/Faculdade/LET110.md",
-    "05 - projects/Faculdade/LET110 - 1.md",
-    "05 - projects/Faculdade/LET110 - 7.md",
-    "05 - projects/Faculdade/COM100.md",
+    "Inglês.md",
+    "04 - projects/Faculdade/COM100 - 1.md",
+    "04 - projects/BuJo/TESTE.canvas",
+    "ics technique/técnicas de estudo.md",
+    "00 - HOME.md",
+    "ETC",
     "ICANSTUDY.md",
-    "02 - reference notes/Cursos/ICS/fitness training.md",
-    "00 - map of content/MOC - ICANSTUDY.md",
-    "02 - reference notes/Cursos/ICS/técnicas de interleaving retrieval.md",
-    "02 - reference notes/Cursos/ICS/técnicas de interleaving.md",
-    "02 - reference notes/Cursos/ICS/gear check.md",
-    "full recall.md",
-    "02 - reference notes/Cursos/ICS/briefing.md",
-    "02 - reference notes/Cursos/ICS/GROWTH PHASE.md",
-    "03 - permanent notes/Traffic Light System.md",
-    "02 - reference notes/Cursos/ICS/marginal gains.md",
-    "02 - reference notes/Cursos/ICS/o que fazer na prova.md",
-    "SE TORNANDO UM ESTUDANTE MELHOR/scheduling.md",
-    "SE TORNANDO UM ESTUDANTE MELHOR",
-    "03 - permanent notes",
+    "04 - projects/Campinho digital/pre-estudo/00 - PRÉ-ESTUDO - AWS.md",
+    "Untitled.md",
+    "ETC/+/cc.md",
+    "ETC/+/Sistema de Estudo.md",
+    "01 - daily/2024-07-21.md",
+    "01 - daily/2024-07-22.md",
+    "01 - daily/2024-07-23.md",
+    "01 - daily/2024-07-24.md",
+    "ics technique/BEDS-M.md",
+    "Amazon Leadership Principles.md",
+    "Untitled 1.md",
+    "OBJETIVOS DA SEMANA.md",
+    "MOC - FACULDADE.md",
+    "04 - projects/Faculdade/LET110.md",
+    "99 - meta/templates/semana (template).md",
+    "04 - projects/Faculdade/LET110 - 1.md",
+    "99 - meta/templates/disciplina (template).md",
+    "LET110 - 1.md",
+    "04 - projects/Faculdade/COM100.md",
+    "04 - projects/Faculdade/SOC100.md",
+    "04 - projects/Faculdade/SOC100 - 7.md",
+    "ics technique",
+    "02 - permanent",
     "05 - projects/Campinho digital/pre-estudo",
     "05 - projects/CR6.100B",
-    "02 - reference notes/Livros/Como Ler Livros",
+    "01 - reference/Livros/Como Ler Livros",
     "01 - daily/Monthly",
     "01 - daily/Weekley",
     "01 - daily/Daily",
-    "04 - Glossário",
-    "05 - projects/Campinho digital",
+    "03 - glossário",
     "05 - projects/BuJo/TESTE.canvas",
     "99 - meta/Images/image_2021-06-21_12-33-11.png",
     "99 - meta/Images/Start With How To Read A Book v2.png",
