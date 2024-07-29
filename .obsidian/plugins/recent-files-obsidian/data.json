@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "note-taking",
+      "path": "note-taking.md"
+    },
+    {
       "basename": "MOC - ICANSTUDY",
       "path": "00 - moc/MOC - ICANSTUDY.md"
+    },
+    {
+      "basename": "in-class technique",
+      "path": "in-class technique.md"
+    },
+    {
+      "basename": "cronograma de revisão",
+      "path": "01 - reference/Cursos/ICS/cronograma de revisão.md"
+    },
+    {
+      "basename": "como pré-estudar",
+      "path": "como pré-estudar.md"
+    },
+    {
+      "basename": "marginal gains",
+      "path": "01 - reference/Cursos/ICS/marginal gains.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "M00 - TECHNO FUNCTIONAL SOFT SKILLS",
+      "path": "04 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md"
+    },
+    {
+      "basename": "WHO AM I",
+      "path": "04 - projects/Campinho digital/pre-estudo/WHO AM I.md"
+    },
+    {
+      "basename": "00 - PRÉ-ESTUDO - AWS",
+      "path": "04 - projects/Campinho digital/pre-estudo/00 - PRÉ-ESTUDO - AWS.md"
+    },
+    {
+      "basename": "MOC - FACULDADE",
+      "path": "00 - moc/MOC - FACULDADE.md"
+    },
+    {
+      "basename": "LET110 - 1",
+      "path": "04 - projects/Faculdade/LET110 - 1.md"
+    },
+    {
+      "basename": "SOC100 - 1",
+      "path": "04 - projects/Faculdade/SOC100 - 1.md"
     },
     {
       "basename": "introduction",
@@ -13,20 +61,12 @@
       "path": "Fundamentals 1.md"
     },
     {
-      "basename": "cronograma de revisão",
-      "path": "01 - reference/Cursos/ICS/cronograma de revisão.md"
-    },
-    {
       "basename": "BarghChartrand2000",
       "path": "01 - reference/Cursos/ICS/BarghChartrand2000.pdf"
     },
     {
       "basename": "MOC - FILOSOFIA",
       "path": "00 - moc/MOC - FILOSOFIA.md"
-    },
-    {
-      "basename": "marginal gains",
-      "path": "01 - reference/Cursos/ICS/marginal gains.md"
     },
     {
       "basename": "spacing interleaving and retrieval",
@@ -67,14 +107,6 @@
     {
       "basename": "técnicas de estudo",
       "path": "ics technique/técnicas de estudo.md"
-    },
-    {
-      "basename": "MOC - FACULDADE",
-      "path": "00 - moc/MOC - FACULDADE.md"
-    },
-    {
-      "basename": "SOC100 - 1",
-      "path": "04 - projects/Faculdade/SOC100 - 1.md"
     },
     {
       "basename": "MOC - NFF",
@@ -163,38 +195,6 @@
     {
       "basename": "CURSO PROBLEMAS DA FILOSOFIA",
       "path": "01 - reference/Cursos/NFF/CURSO PROBLEMAS DA FILOSOFIA.md"
-    },
-    {
-      "basename": "CURSO INTRODUÇÃO GERAL À FILOSOFIA",
-      "path": "01 - reference/Cursos/NFF/CURSO INTRODUÇÃO GERAL À FILOSOFIA.md"
-    },
-    {
-      "basename": "CURIOSO",
-      "path": "01 - reference/Cursos/NFF/CURIOSO.md"
-    },
-    {
-      "basename": "COM100 - 1",
-      "path": "04 - projects/Faculdade/COM100 - 1.md"
-    },
-    {
-      "basename": "COM100 - 3",
-      "path": "04 - projects/Faculdade/COM100 - 3.md"
-    },
-    {
-      "basename": "COM100 - 2",
-      "path": "04 - projects/Faculdade/COM100 - 2.md"
-    },
-    {
-      "basename": "COM100 - 7",
-      "path": "04 - projects/Faculdade/COM100 - 7.md"
-    },
-    {
-      "basename": "COM100 - 6",
-      "path": "04 - projects/Faculdade/COM100 - 6.md"
-    },
-    {
-      "basename": "COM100 - 5",
-      "path": "04 - projects/Faculdade/COM100 - 5.md"
     }
   ],
   "omittedPaths": [],

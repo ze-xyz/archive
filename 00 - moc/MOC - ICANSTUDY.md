@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T13:47
-updated: 2024-07-29T12:54
+updated: 2024-07-29T19:53
 ---
 ```dataview
 TABLE WITHOUT ID
@@ -18,19 +18,9 @@ SORT file.name ASC
 1. [x] [[spacing interleaving and retrieval]]
 3. [x] [[marginal gains]]
 
-- [ ] **30 Days Plan**
-1. [ ] [[introduction]]
-2. [ ] goal setting
-3. [ ] performance goals
-4. [ ] protecting time
-5. [ ] limiting habits and scripted actions
-6. [ ] environmental optimization
-7. [ ] pace adjustments
-
 - [ ] **Fundamentals 2**
-1. [ ] exam technique
-2. [ ] in-class technique
-3. [ ] note-taking
+2. [ ] [[in-class technique]]
+3. [ ] [[note-taking]]
 4. [ ] study scheduling
 5. [ ] revision
 6. [ ] rote-learning

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a9d7967cb5c37baf",
+        "id": "7b48a37aaf69bdb2",
         "type": "tabs",
         "children": [
           {
-            "id": "9d63179ff84405bc",
+            "id": "fc5256eda7781b9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - moc/MOC - ICANSTUDY.md",
+                "file": "note-taking.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - moc/MOC - ICANSTUDY.md"
+                "file": "note-taking.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - moc/MOC - ICANSTUDY.md",
+                "file": "note-taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - moc/MOC - ICANSTUDY.md",
+                "file": "note-taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,35 +212,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d63179ff84405bc",
+  "active": "fc5256eda7781b9f",
   "lastOpenFiles": [
+    "00 - moc/MOC - ICANSTUDY.md",
+    "ED-202407291955.excalidraw.md",
+    "note-taking.md",
+    "in-class technique.md",
+    "01 - reference/Cursos/ICS/cronograma de revisão.md",
+    "como pré-estudar.md",
+    "01 - reference/Cursos/ICS/marginal gains.md",
+    "Untitled.md",
+    "04 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md",
+    "COMMUNICATION - SETTING GOALS.md",
+    "04 - projects/Campinho digital/pre-estudo/WHO AM I.md",
+    "04 - projects/Campinho digital/pre-estudo/00 - PRÉ-ESTUDO - AWS.md",
+    "00 - moc/MOC - FACULDADE.md",
+    "04 - projects/Faculdade/LET110 - 1.md",
+    "04 - projects/Faculdade/SOC100 - 1.md",
     "introduction.md",
     "Fundamentals 1.md",
-    "00 - moc/MOC - ICANSTUDY.md",
     "01 - reference/Cursos/ICS/técnicas de retrieval.md",
-    "01 - reference/Cursos/ICS/cronograma de revisão.md",
     "01 - reference/Cursos/ICS/BarghChartrand2000.pdf",
     "00 - moc/MOC - FILOSOFIA.md",
     "dicas de revisão espaçada.md",
-    "01 - reference/Cursos/ICS/marginal gains.md",
     "01 - reference/Cursos/ICS/spacing interleaving and retrieval.md",
     "99 - meta/templates/ics (template).md",
     "01 - reference/Cursos/ICS/técnicas de interleaving retrieval.md",
     "ESTUDO.md",
     "01 - reference/Cursos/ICS/aprendizagem mecânica - decoreba.md",
     "01 - reference/Cursos/ICS/30 days plan.md",
-    "01 - reference/Cursos/ICS/9 - scheduling.md",
-    "01 - reference/Cursos/ICS/the mind in the middle - A practical guide to priming and automaticity research.md",
-    "01 - reference/Cursos/ICS/tomando notas.md",
-    "01 - reference/Cursos/ICS/TÉCNICAS.md",
-    "01 - reference/Cursos/ICS/o que fazer na prova.md",
-    "01 - reference/Cursos/ICS/technique training.md",
-    "01 - reference/Cursos/ICS/sleep-dependent memory consolidation 1.md",
-    "01 - reference/Cursos/ICS/sleep-dependent memory consolidation.md",
-    "01 - reference/Cursos/ICS/right vs wrong way to practice.md",
-    "01 - reference/Cursos/ICS/Objetivos de Performance.md",
-    "01 - reference/Cursos/ICS/o que fazer em aula.md",
-    "01 - reference/Cursos/ICS/KOLB'S LEARNING CYCLE.md",
     "04 - projects/BuJo/TESTE.canvas",
     "ETC",
     "ics technique",

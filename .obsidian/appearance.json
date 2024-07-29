@@ -1,14 +1,14 @@
 {
   "accentColor": "#007aff",
   "cssTheme": "Minimal",
-  "textFontFamily": "Pitch",
+  "textFontFamily": "Latin Modern Sans Quotation",
   "enabledCssSnippets": [
     "Minimal"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 24,
-  "interfaceFontFamily": "SF Pro Display",
-  "monospaceFontFamily": "Pitch",
+  "interfaceFontFamily": "Latin Modern Mono Prop,Latin Modern Mono Prop 10",
+  "monospaceFontFamily": "Latin Modern Mono",
   "nativeMenus": false,
   "showViewHeader": false,
   "theme": "moonstone"
