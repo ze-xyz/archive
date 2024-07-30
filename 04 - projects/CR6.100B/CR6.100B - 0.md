@@ -1,6 +1,7 @@
 ---
 created: 2024-07-23T15:39
-updated: 2024-07-23T16:26
+updated: 2024-07-30T16:25
+up: "[[MOC - CR6.100B]]"
 ---
 # INTRODUÇÃO
 LEITURA

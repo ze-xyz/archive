@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T13:47
-updated: 2024-07-29T19:53
+updated: 2024-07-30T13:30
 ---
 ```dataview
 TABLE WITHOUT ID
@@ -19,10 +19,10 @@ SORT file.name ASC
 3. [x] [[marginal gains]]
 
 - [ ] **Fundamentals 2**
-2. [ ] [[in-class technique]]
-3. [ ] [[note-taking]]
-4. [ ] study scheduling
-5. [ ] revision
+2. [x] [[in-class technique]]
+3. [x] [[note-taking]]
+4. [ ] [[study scheduling]]
+5. [ ] [[revision]]
 6. [ ] rote-learning
 7. [ ] fundamentals checkpoint video
 

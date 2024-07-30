@@ -1,6 +1,6 @@
 ---
 created: 2024-07-10T08:13
-updated: 2024-07-29T08:49
+updated: 2024-07-30T16:27
 type: "[[index]]"
 ---
 ## DISCIPLINAS ABERTAS
@@ -23,5 +23,16 @@ TABLE WITHOUT ID
 FROM !"Templates"
 WHERE icontains(Semana, "1")
 AND icontains(tags, "status/active")
+SORT file.name ASC
+```
+
+## SEMANAS CONCLUÍDAS
+```dataview
+TABLE WITHOUT ID
+	file.link as "Disciplina",
+	tema
+FROM !"Templates"
+WHERE icontains(Semana, "1")
+AND !icontains(tags, "status/active")
 SORT file.name ASC
 ```

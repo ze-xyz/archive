@@ -1,9 +1,19 @@
 ---
 created: 2024-07-11T06:41
-updated: 2024-07-12T14:49
+updated: 2024-07-30T16:20
+type:
+  - livro
+area:
+  - literatura
+tags:
+  - expositivo/prático
+autor:
+  - "[[Mortimer Adler]]"
+  - "[[Charles Van Doren]]"
+status:
+  - lendo
 ---
 type: #livro/prático
-area: #learning #reading
 
 ## LEITURA INSPECIONAL
 - **PRÉ-LEITURA**

@@ -1,6 +1,6 @@
 ---
 created: 2024-04-11T07:42
-updated: 2024-07-29T12:25
+updated: 2024-07-30T13:21
 up: "[[03 - Reference/course/icanstudy/MOC - ICanStudy]]"
 tags:
   - fundamentals-1

@@ -7,7 +7,7 @@
     "t a g": "multitext",
     "tag": "multitext",
     "Date": "date",
-    "Status": "text",
+    "Status": "multitext",
     "related": "text",
     "Ano": "text",
     "excalidraw-plugin": "text",
@@ -32,6 +32,11 @@
     "excalidraw-open-md": "checkbox",
     "Calendários": "multitext",
     "Carga horária": "multitext",
-    "created": "datetime"
+    "created": "datetime",
+    "tema": "multitext",
+    "Autor": "multitext",
+    "area": "multitext",
+    "Classificação": "multitext",
+    "type": "multitext"
   }
 }

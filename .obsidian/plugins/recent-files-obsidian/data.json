@@ -1,32 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "note-taking",
-      "path": "note-taking.md"
+      "basename": "PRÉ-ESTUDO - AWS",
+      "path": "04 - projects/Campinho digital/pre-estudo/PRÉ-ESTUDO - AWS.md"
+    },
+    {
+      "basename": "CIÊNCIA DA COMPUTAÇÃO",
+      "path": "02 - area/CIÊNCIA DA COMPUTAÇÃO.md"
+    },
+    {
+      "basename": "MOC - CR6.100B",
+      "path": "00 - moc/MOC - CR6.100B.md"
+    },
+    {
+      "basename": "MOC - FACULDADE",
+      "path": "00 - moc/MOC - FACULDADE.md"
+    },
+    {
+      "basename": "revision",
+      "path": "01 - reference/Cursos/ICS/revision.md"
+    },
+    {
+      "basename": "PLANO DE TREINO",
+      "path": "PLANO DE TREINO.md"
+    },
+    {
+      "basename": "Inglês",
+      "path": "Inglês.md"
+    },
+    {
+      "basename": "dicas de interleaving",
+      "path": "01 - reference/Cursos/ICS/dicas de interleaving.md"
+    },
+    {
+      "basename": "como pré-estudar",
+      "path": "01 - reference/Cursos/ICS/como pré-estudar.md"
+    },
+    {
+      "basename": "00 - HOME",
+      "path": "00 - HOME.md"
     },
     {
       "basename": "MOC - ICANSTUDY",
       "path": "00 - moc/MOC - ICANSTUDY.md"
     },
     {
+      "basename": "LET110 - 1",
+      "path": "04 - projects/Faculdade/LET110 - 1.md"
+    },
+    {
+      "basename": "COM100 - 1",
+      "path": "04 - projects/Faculdade/COM100 - 1.md"
+    },
+    {
+      "basename": "MOC - FILOSOFIA",
+      "path": "00 - moc/MOC - FILOSOFIA.md"
+    },
+    {
+      "basename": "CR6.100B - 0",
+      "path": "04 - projects/CR6.100B/CR6.100B - 0.md"
+    },
+    {
+      "basename": "Como ler Livros",
+      "path": "01 - reference/Livros/Como Ler Livros/Como ler Livros.md"
+    },
+    {
+      "basename": "area (template)",
+      "path": "99 - meta/templates/area (template).md"
+    },
+    {
+      "basename": "MOC - CAMPINHO DIGITAL",
+      "path": "00 - moc/MOC - CAMPINHO DIGITAL.md"
+    },
+    {
+      "basename": "LITERATURA",
+      "path": "02 - area/LITERATURA.md"
+    },
+    {
+      "basename": "202403091325 General Tweaks CSS Classes",
+      "path": "99 - meta/preloaded Classes/202403091325 General Tweaks CSS Classes.md"
+    },
+    {
+      "basename": "202401211512 Notebook CSS Classes",
+      "path": "99 - meta/preloaded Classes/202401211512 Notebook CSS Classes.md"
+    },
+    {
+      "basename": "study scheduling",
+      "path": "01 - reference/Cursos/ICS/study scheduling.md"
+    },
+    {
+      "basename": "spacing interleaving and retrieval",
+      "path": "01 - reference/Cursos/ICS/spacing interleaving and retrieval.md"
+    },
+    {
+      "basename": "Fundamentals 1",
+      "path": "01 - reference/Cursos/ICS/Fundamentals 1.md"
+    },
+    {
       "basename": "in-class technique",
-      "path": "in-class technique.md"
+      "path": "01 - reference/Cursos/ICS/in-class technique.md"
+    },
+    {
+      "basename": "note-taking",
+      "path": "01 - reference/Cursos/ICS/note-taking.md"
     },
     {
       "basename": "cronograma de revisão",
       "path": "01 - reference/Cursos/ICS/cronograma de revisão.md"
     },
     {
-      "basename": "como pré-estudar",
-      "path": "como pré-estudar.md"
+      "basename": "técnicas de estudo",
+      "path": "ics technique/técnicas de estudo.md"
+    },
+    {
+      "basename": "livro (template)",
+      "path": "99 - meta/templates/livro (template).md"
+    },
+    {
+      "basename": "tipos de livros",
+      "path": "01 - reference/Livros/Como Ler Livros/tipos de livros.md"
     },
     {
       "basename": "marginal gains",
       "path": "01 - reference/Cursos/ICS/marginal gains.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "M00 - TECHNO FUNCTIONAL SOFT SKILLS",
@@ -37,40 +133,12 @@
       "path": "04 - projects/Campinho digital/pre-estudo/WHO AM I.md"
     },
     {
-      "basename": "00 - PRÉ-ESTUDO - AWS",
-      "path": "04 - projects/Campinho digital/pre-estudo/00 - PRÉ-ESTUDO - AWS.md"
-    },
-    {
-      "basename": "MOC - FACULDADE",
-      "path": "00 - moc/MOC - FACULDADE.md"
-    },
-    {
-      "basename": "LET110 - 1",
-      "path": "04 - projects/Faculdade/LET110 - 1.md"
-    },
-    {
       "basename": "SOC100 - 1",
       "path": "04 - projects/Faculdade/SOC100 - 1.md"
     },
     {
-      "basename": "introduction",
-      "path": "introduction.md"
-    },
-    {
-      "basename": "Fundamentals 1",
-      "path": "Fundamentals 1.md"
-    },
-    {
       "basename": "BarghChartrand2000",
       "path": "01 - reference/Cursos/ICS/BarghChartrand2000.pdf"
-    },
-    {
-      "basename": "MOC - FILOSOFIA",
-      "path": "00 - moc/MOC - FILOSOFIA.md"
-    },
-    {
-      "basename": "spacing interleaving and retrieval",
-      "path": "01 - reference/Cursos/ICS/spacing interleaving and retrieval.md"
     },
     {
       "basename": "ics (template)",
@@ -101,14 +169,6 @@
       "path": "01 - reference/Cursos/ICS/fitness training.md"
     },
     {
-      "basename": "00 - HOME",
-      "path": "00 - HOME.md"
-    },
-    {
-      "basename": "técnicas de estudo",
-      "path": "ics technique/técnicas de estudo.md"
-    },
-    {
       "basename": "MOC - NFF",
       "path": "00 - moc/MOC - NFF.md"
     },
@@ -135,66 +195,6 @@
     {
       "basename": "NFF CURSO (template)",
       "path": "99 - meta/templates/NFF CURSO (template).md"
-    },
-    {
-      "basename": "CURSO MODO SIDARTA",
-      "path": "01 - reference/Cursos/NFF/CURSO MODO SIDARTA.md"
-    },
-    {
-      "basename": "disciplina (template)",
-      "path": "99 - meta/templates/disciplina (template).md"
-    },
-    {
-      "basename": "COMO LER POESIA",
-      "path": "01 - reference/Cursos/NFF/COMO LER POESIA.md"
-    },
-    {
-      "basename": "COMO LER  NARRATIVAS",
-      "path": "01 - reference/Cursos/NFF/COMO LER  NARRATIVAS.md"
-    },
-    {
-      "basename": "CURSO ARGUMENTAÇÃO DA PRÁTICA 4",
-      "path": "01 - reference/Cursos/NFF/CURSO ARGUMENTAÇÃO DA PRÁTICA 4.md"
-    },
-    {
-      "basename": "CURSO ARGUMENTAÇÃO DA PRÁTICA 3",
-      "path": "01 - reference/Cursos/NFF/CURSO ARGUMENTAÇÃO DA PRÁTICA 3.md"
-    },
-    {
-      "basename": "CURSO ARGUMENTAÇÃO DA PRÁTICA 2",
-      "path": "01 - reference/Cursos/NFF/CURSO ARGUMENTAÇÃO DA PRÁTICA 2.md"
-    },
-    {
-      "basename": "CURSO ARGUMENTAÇÃO DA PRÁTICA 1",
-      "path": "01 - reference/Cursos/NFF/CURSO ARGUMENTAÇÃO DA PRÁTICA 1.md"
-    },
-    {
-      "basename": "CURSO O MAPA DO TEXTO",
-      "path": "01 - reference/Cursos/NFF/CURSO O MAPA DO TEXTO.md"
-    },
-    {
-      "basename": "CURSO DECIDA PENSAR DIFERENTE",
-      "path": "01 - reference/Cursos/NFF/CURSO DECIDA PENSAR DIFERENTE.md"
-    },
-    {
-      "basename": "CURSO GUIA PRÁTICO DE LEITURAS FILOSOFICAS",
-      "path": "01 - reference/Cursos/NFF/CURSO GUIA PRÁTICO DE LEITURAS FILOSOFICAS.md"
-    },
-    {
-      "basename": "CURSO HISTÓRIA DA FILOSOFIA",
-      "path": "01 - reference/Cursos/NFF/CURSO HISTÓRIA DA FILOSOFIA.md"
-    },
-    {
-      "basename": "CURSO DO ILUMINISMO AOS MARXISMOS",
-      "path": "01 - reference/Cursos/NFF/CURSO DO ILUMINISMO AOS MARXISMOS.md"
-    },
-    {
-      "basename": "CURSO FILOSOFIA CONTEMPORÂNEA",
-      "path": "01 - reference/Cursos/NFF/CURSO FILOSOFIA CONTEMPORÂNEA.md"
-    },
-    {
-      "basename": "CURSO PROBLEMAS DA FILOSOFIA",
-      "path": "01 - reference/Cursos/NFF/CURSO PROBLEMAS DA FILOSOFIA.md"
     }
   ],
   "omittedPaths": [],

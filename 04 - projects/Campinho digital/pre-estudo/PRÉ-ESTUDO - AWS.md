@@ -1,6 +1,12 @@
 ---
 created: 2024-07-19T13:27
-updated: 2024-07-26T14:51
+updated: 2024-07-30T16:25
+type:
+  - curso
+area:
+  - ciência da computação
+status:
+  - em andamento
 ---
 [[M00 - TECHNO FUNCTIONAL SOFT SKILLS]]
 [[M01 - CLOUD FOUNDATIONS]]

@@ -1,6 +1,6 @@
 ---
 created: 2024-07-29T12:39
-updated: 2024-07-29T12:49
+updated: 2024-07-30T13:22
 ---
 notas
 - tome notas de modo não linear
@@ -8,6 +8,9 @@ notas
 - sempre escreva de cabeça antes de olhar a referência.
 interleaving
 - estude o material de diferentes “ângulos”
+	- ensinando para um estudante imaginário
+	- fazendo mapas mentais
+	- criando questões ou pegando questões ja prontas
 retrieval
 - não olhe suas notas primeiro, tente tirar a informação da memoria e depois analisar as notas para ver o que perdeu
 - sempre se de a chance de fazer isso, mesmo que esteja errado. saber o que está errado nos mostra o que esta certo.

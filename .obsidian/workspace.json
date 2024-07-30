@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b48a37aaf69bdb2",
+        "id": "ee0ca42c1968895f",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5256eda7781b9f",
+            "id": "91e4ca39e575dbb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note-taking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -71,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "ace26239e8ccc29a",
@@ -87,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note-taking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note-taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note-taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,22 +164,8 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "24d879dae8f58368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - moc/MOC - TASK.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,35 +188,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc5256eda7781b9f",
+  "active": "91e4ca39e575dbb1",
   "lastOpenFiles": [
-    "00 - moc/MOC - ICANSTUDY.md",
-    "ED-202407291955.excalidraw.md",
-    "note-taking.md",
-    "in-class technique.md",
-    "01 - reference/Cursos/ICS/cronograma de revisão.md",
-    "como pré-estudar.md",
-    "01 - reference/Cursos/ICS/marginal gains.md",
-    "Untitled.md",
-    "04 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md",
-    "COMMUNICATION - SETTING GOALS.md",
-    "04 - projects/Campinho digital/pre-estudo/WHO AM I.md",
-    "04 - projects/Campinho digital/pre-estudo/00 - PRÉ-ESTUDO - AWS.md",
+    "04 - projects/Campinho digital/pre-estudo/PRÉ-ESTUDO - AWS.md",
+    "02 - area/CIÊNCIA DA COMPUTAÇÃO.md",
+    "00 - moc/MOC - CR6.100B.md",
     "00 - moc/MOC - FACULDADE.md",
+    "01 - reference/Cursos/ICS/revision.md",
+    "PLANO DE TREINO.md",
+    "Inglês.md",
+    "01 - reference/Cursos/ICS/dicas de interleaving.md",
+    "01 - reference/Cursos/ICS/como pré-estudar.md",
+    "00 - HOME.md",
+    "00 - moc/MOC - ICANSTUDY.md",
+    "00 - moc/MOC - TASK.md",
     "04 - projects/Faculdade/LET110 - 1.md",
-    "04 - projects/Faculdade/SOC100 - 1.md",
-    "introduction.md",
-    "Fundamentals 1.md",
-    "01 - reference/Cursos/ICS/técnicas de retrieval.md",
-    "01 - reference/Cursos/ICS/BarghChartrand2000.pdf",
+    "04 - projects/Faculdade/COM100 - 1.md",
     "00 - moc/MOC - FILOSOFIA.md",
-    "dicas de revisão espaçada.md",
+    "04 - projects/CR6.100B/CR6.100B - 0.md",
+    "01 - reference/Livros/Como Ler Livros/Como ler Livros.md",
+    "99 - meta/templates/area (template).md",
+    "00 - moc/MOC - CAMPINHO DIGITAL.md",
+    "02 - area/LITERATURA.md",
+    "02 - area",
+    "Untitled",
+    "99 - meta/preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "99 - meta/preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "01 - reference/Cursos/ICS/study scheduling.md",
     "01 - reference/Cursos/ICS/spacing interleaving and retrieval.md",
-    "99 - meta/templates/ics (template).md",
-    "01 - reference/Cursos/ICS/técnicas de interleaving retrieval.md",
-    "ESTUDO.md",
-    "01 - reference/Cursos/ICS/aprendizagem mecânica - decoreba.md",
-    "01 - reference/Cursos/ICS/30 days plan.md",
+    "01 - reference/Cursos/ICS/Fundamentals 1.md",
+    "técnicas de interleaving retrieval.md",
+    "01 - reference/Cursos/ICS/BarghChartrand2000.pdf",
     "04 - projects/BuJo/TESTE.canvas",
     "ETC",
     "ics technique",
@@ -249,8 +227,6 @@
     "05 - projects/CR6.100B",
     "01 - reference/Livros/Como Ler Livros",
     "01 - daily/Monthly",
-    "01 - daily/Weekley",
-    "01 - daily/Daily",
     "05 - projects/BuJo/TESTE.canvas",
     "99 - meta/Images/image_2021-06-21_12-33-11.png",
     "99 - meta/Images/Start With How To Read A Book v2.png",

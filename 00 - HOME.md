@@ -1,11 +1,16 @@
 ---
 created: 2024-07-10T10:18
-updated: 2024-07-29T06:54
+updated: 2024-07-30T16:22
 ---
-[[técnicas de estudo]]
-
-
+## AREAS
+- [[CIÊNCIA DA COMPUTAÇÃO]]
+- [[LITERATURA]]
+- [[FILOSOFIA]]
+- [[MATEMÁTICA]]
+- [[MITOLOGIA]]
+## MOCS
 ```dataview
-list
+List
 FROM "00 - moc"
+SORT file.name ASC
 ```

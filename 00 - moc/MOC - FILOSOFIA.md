@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T19:29
-updated: 2024-07-29T12:23
+updated: 2024-07-30T16:26
 type: "[[index]]"
 ---
 ## Filosofia Prática
@@ -16,7 +16,7 @@ type: "[[index]]"
 - [[Filosofia Contemporânea]]
 ## Introdução Geral à Filosofia
 - [[Filosofia: conceito, origens e História]]
-- [[razão]] 
+- [[Razão]] 
 - [[Verdade]]
 - [[Conhecimento]]
 - [[lógica]]
@@ -27,7 +27,7 @@ type: "[[index]]"
 - [[Ética]]
 - [[Filosofia Política]]
 ## Problemas Filosóficos
-- [[MOC - PENSAMENTO CRÍTICO| Pensamento Crítico]]
+- [[MOC - PENSAMENTO CRÍTICO|Pensamento Crítico]]
 - [[Problemas de Ética e Filosofia Política]]
 - [[Problemas de autoconhecimento]]
 - [[Problemas de Filosofia do Direito]]
@@ -39,5 +39,4 @@ type: "[[index]]"
 - [[Hermenêutica e seus representantes]]
 - [[Existencialismo e seus representantes]]
 ## Do Iluminismo aos Marxismos
-- placeholder
 

@@ -1,6 +1,12 @@
 ---
 created: 2024-07-23T15:37
-updated: 2024-07-23T15:39
+updated: 2024-07-30T16:25
+type:
+  - curso
+area:
+  - ciência da computação
+status:
+  - em andamento
 ---
 - [[CR6.100B - 0]]
 - [[CR6.100B - 1]]

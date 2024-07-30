@@ -19,10 +19,16 @@ cssclasses:
   - embed-manila
   - page-grid
 created: 2024-04-04T06:58
-Status:
-  - lendo
-  - lido
-  - quero ler
+tema:
+  - ciência da computação
+  - filosofia
+  - história
+  - literatura
+  - matemática
+  - lógica
+  - mitologia
+  - programação competitiva
+updated: 2024-07-30T16:06
 ---
 <div style="background-color=black;color:white">
 <i>This page is only for keeping CSS classes ready for autocomplete.</i>
