@@ -1,9 +1,13 @@
 ---
-up: "{{title}}"
+up: DISCIPLINA
 inicio: 
-tema: 
-Semana: 
 tags:
   - "#type/semana"
-  - "#status/active"
+tema: 
+semana: 
+status: 
+revisão: 
+revisado: 
+created: 2024-07-25T13:17
+updated: 2024-07-31T13:29
 ---

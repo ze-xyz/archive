@@ -28,7 +28,11 @@ tema:
   - lógica
   - mitologia
   - programação competitiva
-updated: 2024-07-30T16:06
+updated: 2024-07-31T14:41
+type:
+  - curso
+  - video
+  - livro
 ---
 <div style="background-color=black;color:white">
 <i>This page is only for keeping CSS classes ready for autocomplete.</i>

@@ -1,32 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "SOC100 - 1",
-      "path": "04 - projects/Faculdade/SOC100 - 1.md"
-    },
-    {
-      "basename": "ED-202407301948.excalidraw",
-      "path": "ED-202407301948.excalidraw.md"
-    },
-    {
-      "basename": "MATEMÁTICA",
-      "path": "02 - area/MATEMÁTICA.md"
-    },
-    {
       "basename": "COMPETITIVE PROGRAMING",
       "path": "02 - area/COMPETITIVE PROGRAMING.md"
-    },
-    {
-      "basename": "00 - HOME",
-      "path": "00 - HOME.md"
-    },
-    {
-      "basename": "CIÊNCIA DA COMPUTAÇÃO",
-      "path": "02 - area/CIÊNCIA DA COMPUTAÇÃO.md"
-    },
-    {
-      "basename": "LITERATURA",
-      "path": "02 - area/LITERATURA.md"
     },
     {
       "basename": "Starting Competitive Programming - Steps and Mistakes",
@@ -37,28 +13,104 @@
       "path": "99 - meta/templates/new note (template).md"
     },
     {
+      "basename": "202401211512 Notebook CSS Classes",
+      "path": "99 - meta/preloaded Classes/202401211512 Notebook CSS Classes.md"
+    },
+    {
+      "basename": "00 - HOME",
+      "path": "00 - HOME.md"
+    },
+    {
+      "basename": "SOC100 - 1",
+      "path": "04 - projects/Faculdade/SOC100 - 1.md"
+    },
+    {
+      "basename": "MOC - ICANSTUDY",
+      "path": "00 - moc/MOC - ICANSTUDY.md"
+    },
+    {
+      "basename": "revision",
+      "path": "01 - reference/Cursos/ICS/revision.md"
+    },
+    {
+      "basename": "study scheduling",
+      "path": "01 - reference/Cursos/ICS/study scheduling.md"
+    },
+    {
+      "basename": "revisão",
+      "path": "ics technique/revisão.md"
+    },
+    {
+      "basename": "Fundamentals 1",
+      "path": "01 - reference/Cursos/ICS/Fundamentals 1.md"
+    },
+    {
+      "basename": "CIÊNCIA DA COMPUTAÇÃO",
+      "path": "02 - area/CIÊNCIA DA COMPUTAÇÃO.md"
+    },
+    {
       "basename": "PRÉ-ESTUDO - AWS",
       "path": "04 - projects/Campinho digital/pre-estudo/PRÉ-ESTUDO - AWS.md"
     },
     {
-      "basename": "COM100 - 1",
-      "path": "04 - projects/Faculdade/COM100 - 1.md"
+      "basename": "M01 - CLOUD FOUNDATIONS",
+      "path": "04 - projects/Campinho digital/pre-estudo/M01 - CLOUD FOUNDATIONS.md"
     },
     {
-      "basename": "COM100",
-      "path": "04 - projects/Faculdade/COM100.md"
+      "basename": "M00 - TECHNO FUNCTIONAL SOFT SKILLS",
+      "path": "04 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md"
+    },
+    {
+      "basename": "SOC100",
+      "path": "04 - projects/Faculdade/SOC100.md"
     },
     {
       "basename": "MOC - FACULDADE",
       "path": "00 - moc/MOC - FACULDADE.md"
     },
     {
-      "basename": "MOC - CR6.100B",
-      "path": "00 - moc/MOC - CR6.100B.md"
+      "basename": "LET110 - 1",
+      "path": "04 - projects/Faculdade/LET110 - 1.md"
     },
     {
-      "basename": "revision",
-      "path": "01 - reference/Cursos/ICS/revision.md"
+      "basename": "LET110",
+      "path": "04 - projects/Faculdade/LET110.md"
+    },
+    {
+      "basename": "COM100",
+      "path": "04 - projects/Faculdade/COM100.md"
+    },
+    {
+      "basename": "COM100 - 1",
+      "path": "04 - projects/Faculdade/COM100 - 1.md"
+    },
+    {
+      "basename": "202403091325 General Tweaks CSS Classes",
+      "path": "99 - meta/preloaded Classes/202403091325 General Tweaks CSS Classes.md"
+    },
+    {
+      "basename": "semana (template)",
+      "path": "99 - meta/templates/semana (template).md"
+    },
+    {
+      "basename": "conceitos",
+      "path": "conceitos.md"
+    },
+    {
+      "basename": "ED-202407301948.excalidraw",
+      "path": "ED-202407301948.excalidraw.md"
+    },
+    {
+      "basename": "MATEMÁTICA",
+      "path": "02 - area/MATEMÁTICA.md"
+    },
+    {
+      "basename": "LITERATURA",
+      "path": "02 - area/LITERATURA.md"
+    },
+    {
+      "basename": "MOC - CR6.100B",
+      "path": "00 - moc/MOC - CR6.100B.md"
     },
     {
       "basename": "PLANO DE TREINO",
@@ -75,14 +127,6 @@
     {
       "basename": "como pré-estudar",
       "path": "01 - reference/Cursos/ICS/como pré-estudar.md"
-    },
-    {
-      "basename": "MOC - ICANSTUDY",
-      "path": "00 - moc/MOC - ICANSTUDY.md"
-    },
-    {
-      "basename": "LET110 - 1",
-      "path": "04 - projects/Faculdade/LET110 - 1.md"
     },
     {
       "basename": "MOC - FILOSOFIA",
@@ -105,24 +149,8 @@
       "path": "00 - moc/MOC - CAMPINHO DIGITAL.md"
     },
     {
-      "basename": "202403091325 General Tweaks CSS Classes",
-      "path": "99 - meta/preloaded Classes/202403091325 General Tweaks CSS Classes.md"
-    },
-    {
-      "basename": "202401211512 Notebook CSS Classes",
-      "path": "99 - meta/preloaded Classes/202401211512 Notebook CSS Classes.md"
-    },
-    {
-      "basename": "study scheduling",
-      "path": "01 - reference/Cursos/ICS/study scheduling.md"
-    },
-    {
       "basename": "spacing interleaving and retrieval",
       "path": "01 - reference/Cursos/ICS/spacing interleaving and retrieval.md"
-    },
-    {
-      "basename": "Fundamentals 1",
-      "path": "01 - reference/Cursos/ICS/Fundamentals 1.md"
     },
     {
       "basename": "in-class technique",
@@ -153,52 +181,12 @@
       "path": "01 - reference/Cursos/ICS/marginal gains.md"
     },
     {
-      "basename": "M00 - TECHNO FUNCTIONAL SOFT SKILLS",
-      "path": "04 - projects/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md"
-    },
-    {
       "basename": "WHO AM I",
       "path": "04 - projects/Campinho digital/pre-estudo/WHO AM I.md"
     },
     {
       "basename": "BarghChartrand2000",
       "path": "01 - reference/Cursos/ICS/BarghChartrand2000.pdf"
-    },
-    {
-      "basename": "ics (template)",
-      "path": "99 - meta/templates/ics (template).md"
-    },
-    {
-      "basename": "aprendizagem mecânica - decoreba",
-      "path": "01 - reference/Cursos/ICS/aprendizagem mecânica - decoreba.md"
-    },
-    {
-      "basename": "o que fazer na prova",
-      "path": "01 - reference/Cursos/ICS/o que fazer na prova.md"
-    },
-    {
-      "basename": "o que fazer em aula",
-      "path": "01 - reference/Cursos/ICS/o que fazer em aula.md"
-    },
-    {
-      "basename": "KOLB'S LEARNING CYCLE",
-      "path": "01 - reference/Cursos/ICS/KOLB'S LEARNING CYCLE.md"
-    },
-    {
-      "basename": "gear check",
-      "path": "01 - reference/Cursos/ICS/gear check.md"
-    },
-    {
-      "basename": "fitness training",
-      "path": "01 - reference/Cursos/ICS/fitness training.md"
-    },
-    {
-      "basename": "MOC - NFF",
-      "path": "00 - moc/MOC - NFF.md"
-    },
-    {
-      "basename": "FASE CURIOSO",
-      "path": "01 - reference/Cursos/NFF/FASE CURIOSO.md"
     }
   ],
   "omittedPaths": [],

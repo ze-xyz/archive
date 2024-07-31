@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T13:47
-updated: 2024-07-30T13:30
+updated: 2024-07-31T14:33
 ---
 ```dataview
 TABLE WITHOUT ID
@@ -21,8 +21,8 @@ SORT file.name ASC
 - [ ] **Fundamentals 2**
 2. [x] [[in-class technique]]
 3. [x] [[note-taking]]
-4. [ ] [[study scheduling]]
-5. [ ] [[revision]]
+4. [x] [[study scheduling]]
+5. [x] [[revision]]
 6. [ ] rote-learning
 7. [ ] fundamentals checkpoint video
 

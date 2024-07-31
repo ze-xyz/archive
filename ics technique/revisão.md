@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T10:43
-updated: 2024-07-26T13:41
+updated: 2024-07-31T14:31
 up: "[[técnicas de estudo]]"
 tags:
   - study-skill

@@ -37,6 +37,10 @@
     "Autor": "multitext",
     "area": "multitext",
     "Classificação": "multitext",
-    "type": "multitext"
+    "type": "multitext",
+    "revisão": "multitext",
+    "revisado": "multitext",
+    "Semana": "multitext",
+    "inicio": "date"
   }
 }

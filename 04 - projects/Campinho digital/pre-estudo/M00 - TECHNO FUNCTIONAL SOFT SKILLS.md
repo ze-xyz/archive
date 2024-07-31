@@ -1,6 +1,6 @@
 ---
 created: 2024-07-25T09:57
-updated: 2024-07-29T18:58
+updated: 2024-07-31T14:27
 ---
 - princípios de liderança amazon
 - gerenciamento de tempo

@@ -1,8 +1,19 @@
 ---
 created: 2024-07-10T08:13
-updated: 2024-07-30T16:27
+updated: 2024-07-31T14:06
 type: "[[index]]"
 ---
+## SEMANAS ABERTAS
+```dataview
+TABLE WITHOUT ID
+	file.link as "Disciplina",
+	tema
+FROM "04 - projects"
+WHERE icontains(semana, "1")
+AND icontains(status, "em andamento")
+SORT file.name ASC
+```
+
 ## DISCIPLINAS ABERTAS
 ```dataview
 TABLE WITHOUT ID
@@ -15,24 +26,23 @@ AND icontains(tags, "type/disciplina")
 SORT file.name ASC
 ```
 
-## SEMANAS ABERTAS
+## SEMANAS CONCLUIDAS
 ```dataview
 TABLE WITHOUT ID
 	file.link as "Disciplina",
 	tema
-FROM !"Templates"
-WHERE icontains(Semana, "1")
-AND icontains(tags, "status/active")
+FROM "04 - projects"
+WHERE icontains(semana, "1")
+AND icontains(status, "concluído")
 SORT file.name ASC
 ```
 
-## SEMANAS CONCLUÍDAS
+## REVISÕES
 ```dataview
 TABLE WITHOUT ID
-	file.link as "Disciplina",
-	tema
-FROM !"Templates"
-WHERE icontains(Semana, "1")
-AND !icontains(tags, "status/active")
+	file.link as "Semana",
+	revisão
+FROM "04 - projects"
+WHERE icontains(revisado, "não") 
 SORT file.name ASC
 ```
