@@ -1,14 +1,14 @@
 {
   "accentColor": "#007aff",
   "cssTheme": "Minimal",
-  "textFontFamily": "SF Pro Display Light",
+  "textFontFamily": "SF Mono",
   "enabledCssSnippets": [
     "Minimal"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 24,
-  "interfaceFontFamily": "SF Pro Display Light",
-  "monospaceFontFamily": "SF Mono Light",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "SF Pro Display Light,SF Pro Display, Light",
+  "monospaceFontFamily": "SF Mono Light,SF Mono, Light",
   "nativeMenus": false,
   "showViewHeader": false,
   "theme": "moonstone"

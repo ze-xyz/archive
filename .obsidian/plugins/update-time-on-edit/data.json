@@ -68,7 +68,7 @@
     "+/Aprendendo a Aprender.md": "ae2441d9f85a1df3e339b8bc94d35439fe0f4ea2f500382b62f1b3fdf5fee874",
     "99 - meta/templates/log (template).md": "6b4358e3d96f5f9e04b8089da20f4bb8ad50936e1f9399af0c0db86a2f10cb0d",
     "99 - meta/templates/disciplina (template).md": "e1e56b71a9de9530e83f76b78af5f6591e163e9c09c76ca8985dce85838794ef",
-    "00 - HOME.md": "3fd5cdfdf2e18fd2b22126540299ecb7e3430f1851fd5b90a1b5185e55075152",
+    "00 - HOME.md": "21aa7f31646a9676a01e3e04a66ef1ae6e40be7d2cb3ad953d0c71765e778da4",
     "05 - projects/CR6.100B/CR6.100B - 0.md": "95637ddf46cb5718b16d29bd5af7181cb5b8d179527920cc06065d5581306827",
     "05 - projects/Faculdade/COM100.md": "2beeb3e4a3ba3407a0f97d2ebc5863f50f5fa756f5bb9bd6f602d10c23a7f6c0",
     "05 - projects/Faculdade/COM110 - 1.md": "16a209d8cfbc43949911124fd3aeb4d1c05302169f6450641ab06d323551dbe3",
@@ -129,7 +129,7 @@
     "ics technique/BEDS-M.md": "9aecada72391fc8dd4d1ded24cb6bcc76acbdc3f05f7eab09f84a769bcc9b931",
     "ics technique/scheduling.md": "99d869af91dcf4008e48d30f02f81bea173a3eebdda1ebb6342eb89b10742b39",
     "PLANO DE TREINO.md": "3376a328d293271b2a4f1e828a278f0c9154e3365422a626b63e9533565df9cb",
-    "04 - projects/Faculdade/SOC100 - 1.md": "7349b9326092f54fc6aec78699be75df50669d069e2e87bee162ec8a7d8f9070",
+    "04 - projects/Faculdade/SOC100 - 1.md": "28fa980b9b431d9b5c416bd851499928050affd58e357eec16e3a9bf56c7db59",
     "04 - projects/Faculdade/SOC100 - 2.md": "064799a312c3f447cfb7aac627ef8f7a71fcff5bc870364dba4661eeef10d264",
     "04 - projects/Faculdade/SOC100 - 3.md": "5a34bccc4a2ae46ccd72aaf554abd3a0a7c0c394e5afb500a9e03ba61f971739",
     "04 - projects/Faculdade/SOC100 - 4.md": "f63a71f3adac5b4939b593b0c964255244ef3b372d7306b5bc6e16f7ad314c88",
@@ -182,6 +182,10 @@
     "04 - projects/CR6.100B/CR6.100B - 0.md": "287cef2ea8e27a71a32e88de4a698c9d64dcd488d863cd2056a580ef9a4a4d3b",
     "01 - reference/Cursos/ICS/revision.md": "8472580ff150081c37b94e11580b39d9a1136aa114e4b29f5e944e91d764de15",
     "01 - reference/Cursos/ICS/dicas de interleaving.md": "4a0061ebddd7c0ebdde71feba291675786cdb62f0390367f84e044775aa7ebba",
-    "01 - reference/Cursos/ICS/como pré-estudar.md": "a04d2f311d1d3d2ed02b6994a6da3927cb39f03270c45de336a40937d6a1033b"
+    "01 - reference/Cursos/ICS/como pré-estudar.md": "a04d2f311d1d3d2ed02b6994a6da3927cb39f03270c45de336a40937d6a1033b",
+    "99 - meta/templates/new note (template).md": "f44e40558df16376ec7ad1833430483eb999b5350043c6ad927d7273fd425825",
+    "01 - reference/Video/Starting Competitive Programming - Steps and Mistakes.md": "84e42da9a2abc0c4d0151ee265ad1bc7088d87283aaeedf59420476e2d253595",
+    "02 - area/COMPETITIVE PROGRAMING.md": "074e87192e6abbb6a58e2fe1cf7901dae6d17480794f792a897edc2f1d4a9de2",
+    "02 - area/MATEMÁTICA.md": "5e6053f2cf676dfa404a54e8ffd71dfe1b1ba14037195ad192e2cdd49a3cccec"
   }
 }

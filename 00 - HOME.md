@@ -1,6 +1,6 @@
 ---
 created: 2024-07-10T10:18
-updated: 2024-07-30T16:22
+updated: 2024-07-30T19:14
 ---
 ## AREAS
 - [[CIÊNCIA DA COMPUTAÇÃO]]
@@ -8,6 +8,7 @@ updated: 2024-07-30T16:22
 - [[FILOSOFIA]]
 - [[MATEMÁTICA]]
 - [[MITOLOGIA]]
+- [[COMPETITIVE PROGRAMING]]
 ## MOCS
 ```dataview
 List

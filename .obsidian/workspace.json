@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ee0ca42c1968895f",
+        "id": "184ab5b1cee2a6c9",
         "type": "tabs",
         "children": [
           {
-            "id": "91e4ca39e575dbb1",
+            "id": "4da2a527b5726092",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04 - projects/Faculdade/SOC100 - 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "ace26239e8ccc29a",
@@ -81,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04 - projects/Faculdade/SOC100 - 1.md"
+              }
             }
           },
           {
@@ -101,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - projects/Faculdade/SOC100 - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - projects/Faculdade/SOC100 - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,36 +198,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91e4ca39e575dbb1",
+  "active": "4da2a527b5726092",
   "lastOpenFiles": [
-    "04 - projects/Campinho digital/pre-estudo/PRÉ-ESTUDO - AWS.md",
+    "ED-202407301948.excalidraw.md",
+    "02 - area/MATEMÁTICA.md",
+    "02 - area/COMPETITIVE PROGRAMING.md",
+    "00 - HOME.md",
     "02 - area/CIÊNCIA DA COMPUTAÇÃO.md",
-    "00 - moc/MOC - CR6.100B.md",
+    "02 - area/LITERATURA.md",
+    "01 - reference/Video/Starting Competitive Programming - Steps and Mistakes.md",
+    "01 - reference/Video",
+    "99 - meta/templates/new note (template).md",
+    "04 - projects/Campinho digital/pre-estudo/PRÉ-ESTUDO - AWS.md",
+    "04 - projects/Faculdade/COM100 - 1.md",
+    "04 - projects/Faculdade/COM100.md",
     "00 - moc/MOC - FACULDADE.md",
+    "00 - moc/MOC - CR6.100B.md",
     "01 - reference/Cursos/ICS/revision.md",
     "PLANO DE TREINO.md",
     "Inglês.md",
     "01 - reference/Cursos/ICS/dicas de interleaving.md",
     "01 - reference/Cursos/ICS/como pré-estudar.md",
-    "00 - HOME.md",
     "00 - moc/MOC - ICANSTUDY.md",
     "00 - moc/MOC - TASK.md",
     "04 - projects/Faculdade/LET110 - 1.md",
-    "04 - projects/Faculdade/COM100 - 1.md",
     "00 - moc/MOC - FILOSOFIA.md",
     "04 - projects/CR6.100B/CR6.100B - 0.md",
     "01 - reference/Livros/Como Ler Livros/Como ler Livros.md",
     "99 - meta/templates/area (template).md",
     "00 - moc/MOC - CAMPINHO DIGITAL.md",
-    "02 - area/LITERATURA.md",
     "02 - area",
-    "Untitled",
-    "99 - meta/preloaded Classes/202403091325 General Tweaks CSS Classes.md",
-    "99 - meta/preloaded Classes/202401211512 Notebook CSS Classes.md",
-    "01 - reference/Cursos/ICS/study scheduling.md",
-    "01 - reference/Cursos/ICS/spacing interleaving and retrieval.md",
-    "01 - reference/Cursos/ICS/Fundamentals 1.md",
-    "técnicas de interleaving retrieval.md",
     "01 - reference/Cursos/ICS/BarghChartrand2000.pdf",
     "04 - projects/BuJo/TESTE.canvas",
     "ETC",
