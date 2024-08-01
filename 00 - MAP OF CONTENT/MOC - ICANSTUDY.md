@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T13:47
-updated: 2024-07-31T14:33
+updated: 2024-08-01T14:01
 ---
 ```dataview
 TABLE WITHOUT ID
@@ -27,9 +27,9 @@ SORT file.name ASC
 7. [ ] fundamentals checkpoint video
 
 ## GROWTH PHASE
-### **BRIEFING**
+### BRIEFING
 - [ ] **Introduction**
-1. [ ] Right vs Wrong Way to Practice
+1. [ ] [[Right vs Wrong Way to Practice]]
 2. [ ] Stages of Learning
 3. [ ] Expectations
 - [ ] **Gear Check**
@@ -46,7 +46,7 @@ SORT file.name ASC
 6. Confidence
 7. Learning Contract Section 4
 
-### **Technique Training**
+### Technique Training
 1. [ ] Cave Theory
 2. [ ] Forgetting
 3. [ ] Memory

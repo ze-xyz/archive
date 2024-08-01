@@ -2,8 +2,10 @@
 tags:
   - kolb
 created: 2024-04-04T21:05
-updated: 2024-07-29T12:19
+updated: 2024-08-01T16:00
 ---
+Quando usar? para melhorar seu estudo, suas técnicas de estudo
+
 ## QUAL SUA EXPERIÊNCIA?
 
 ## REFLEXÃO

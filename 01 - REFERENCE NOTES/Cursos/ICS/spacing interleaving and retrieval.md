@@ -1,6 +1,6 @@
 ---
 created: 2024-04-11T07:42
-updated: 2024-07-30T13:21
+updated: 2024-08-01T14:44
 up: "[[03 - Reference/course/icanstudy/MOC - ICanStudy]]"
 tags:
   - fundamentals-1
@@ -22,7 +22,7 @@ D-.->|interleaving|C
 
 **Memória Sensorial**: a informação sensorial ja  processada absorvida pelo nosso cérebro.
 
-O processamento da informação sensorial em memória sensorial é muito rápido, fazendo com tudo que seja relevante seja descartado e tudo que seja útil seja mandado para a *working memory*.
+      O processamento da informação sensorial em memória sensorial é muito rápido, fazendo com tudo que seja relevante seja descartado e tudo que seja útil seja mandado para a *working memory*.
 
 **Working Memory**: Memórias sensoriais 
 relevantes e práticas, como: 

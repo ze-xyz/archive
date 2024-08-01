@@ -6,9 +6,9 @@
   "hideTooltips": false,
   "hideFileNavButtons": false,
   "hideSearchSuggestions": false,
-  "hideSearchCounts": true,
+  "hideSearchCounts": false,
   "hideInstructions": false,
-  "hidePropertiesReading": true,
+  "hidePropertiesReading": false,
   "hideVault": false,
   "hideRibbon": true
 }
