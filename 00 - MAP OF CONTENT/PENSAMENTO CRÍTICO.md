@@ -1,3 +1,7 @@
+---
+created: 2024-07-29T06:51
+updated: 2024-08-02T07:52
+---
 - [[o que é pensamento crítico]]
 - [[a força do pensamento crítico]]
 - [[como saber se expressar (imprecisão)]]

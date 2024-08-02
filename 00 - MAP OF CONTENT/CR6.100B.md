@@ -1,8 +1,11 @@
 ---
 created: 2024-07-23T15:37
-updated: 2024-07-30T16:25
+updated: 2024-08-02T07:56
+up: "[[MOC - PROJETOS]]"
 type:
   - curso
+tags:
+  - moc
 area:
   - ciência da computação
 status:

@@ -1,7 +1,8 @@
 ---
 created: 2024-07-29T09:03
-updated: 2024-07-29T10:00
-type: "[[index]]"
+updated: 2024-08-02T07:56
+tags:
+  - moc
 ---
 [[MÉTODO TEA]]
 ## Fases:

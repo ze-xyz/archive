@@ -1,6 +1,14 @@
 ---
 created: 2024-07-26T13:47
-updated: 2024-08-01T14:01
+updated: 2024-08-02T16:43
+up: "[[MOC - PROJETOS]]"
+type:
+  - curso
+area:
+  - learning
+  - self-management
+status:
+  - em andamento
 ---
 ```dataview
 TABLE WITHOUT ID
@@ -12,31 +20,29 @@ SORT file.name ASC
 ```
 
 
-
 ## HIGH-YIELD PHASE
 - [x] **[[Fundamentals 1]]**
 1. [x] [[spacing interleaving and retrieval]]
 3. [x] [[marginal gains]]
 
-- [ ] **Fundamentals 2**
+- [x] **Fundamentals 2**
 2. [x] [[in-class technique]]
 3. [x] [[note-taking]]
 4. [x] [[study scheduling]]
 5. [x] [[revision]]
-6. [ ] rote-learning
-7. [ ] fundamentals checkpoint video
+6. [x] rote-learning
+7. [x] fundamentals checkpoint video
 
 ## GROWTH PHASE
 ### BRIEFING
-- [ ] **Introduction**
-1. [ ] [[Right vs Wrong Way to Practice]]
-2. [ ] Stages of Learning
-3. [ ] Expectations
+- [x] **Introduction**
+1. [x] [[Right vs Wrong Way to Practice]]
+2. [x] Stages of Learning
+3. [x] Expectations
 - [ ] **Gear Check**
-1. [ ] Current Gear
-2. [ ] Tips and Tricks
-3. [ ] Common Traps
-4. [ ] Must Dos
+1. [x] [[Current Gear]]
+2. [x] [[Tips and Tricks]]
+3. [ ] [[Must Dos]]
 - [ ] **Fitness Training**
 1. Learning Contract Section 1
 2. Sams Story

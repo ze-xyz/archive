@@ -1,5 +1,5 @@
 ---
-up: "[[MOC - FACULDADE]]"
+up: "[[FACULDADE]]"
 Nome: 
 Semestre: 
 tags:

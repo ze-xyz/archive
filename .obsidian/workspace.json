@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "080f5efac86285ee",
+        "id": "5b910773ba29ffc6",
         "type": "tabs",
         "children": [
           {
-            "id": "0bbca73dd4f860fc",
+            "id": "bd6bd241de55b974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - REFERENCE NOTES/Cursos/ICS/KOLB'S LEARNING CYCLE.md",
+                "file": "00 - MAP OF CONTENT/ICANSTUDY.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "9e67ce454a1f194d",
+            "id": "243149e7b4d45c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kolbs (template).md",
+                "file": "Must Dos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,8 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kolbs (template).md"
+                "file": "Must Dos.md"
               }
             }
           },
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kolbs (template).md",
+                "file": "Must Dos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kolbs (template).md",
+                "file": "Must Dos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,35 +212,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e67ce454a1f194d",
+  "active": "243149e7b4d45c38",
   "lastOpenFiles": [
-    "01 - REFERENCE NOTES/Cursos/ICS/KOLB'S LEARNING CYCLE.md",
-    "kolbs (template).md",
-    "kolb (template).md",
-    "00 - MAP OF CONTENT/MOC - FACULDADE.md",
-    "00 - HOME.md",
-    "Right vs Wrong Way to Practice.md",
-    "03 - PROJECTS/Faculdade/SOC100 - 1.md",
-    "03 - PROJECTS/Faculdade/COM100.md",
+    "00 - MAP OF CONTENT/ICANSTUDY.md",
+    "Must Dos.md",
+    "Tips and Tricks.md",
+    "Current Gear.md",
+    "01 - REFERENCE NOTES/Cursos/ICS/Right vs Wrong Way to Practice.md",
+    "00 - MAP OF CONTENT/FACULDADE.md",
+    "03 - PROJECTS/Faculdade/LET110 - 2.md",
+    "03 - PROJECTS/Faculdade/SOC100 - 2.md",
+    "99 - meta/templates/disciplina (template).md",
+    "99 - meta/templates/semana (template).md",
     "03 - PROJECTS/Faculdade/LET110 - 1.md",
-    "02 - AREAS/CIÊNCIA DA COMPUTAÇÃO.md",
+    "03 - PROJECTS/Faculdade/COM100 - 1.md",
+    "03 - PROJECTS/Faculdade/SOC100 - 1.md",
+    "03 - PROJECTS/Faculdade/COM100 - 2.md",
+    "03 - PROJECTS/Faculdade/SOC100.md",
+    "03 - PROJECTS/Faculdade/LET110.md",
+    "99 - meta/templates/kolb (template).md",
+    "03 - PROJECTS/Faculdade/COM100.md",
+    "GEAR CHECKLIST.md",
+    "HOME.md",
+    "02 - AREAS/LITERATURA.md",
+    "02 - AREAS/FILOSOFIA.md",
+    "00 - MAP OF CONTENT/MOC - PROJETOS.md",
+    "+",
+    "ED-202407301948.excalidraw.md",
+    "conceitos.md",
+    "kolbs (template).md",
     "04 - KOLBS",
-    "01 - REFERENCE NOTES/Cursos/ICS/spacing interleaving and retrieval.md",
-    "00 - MAP OF CONTENT/MOC - ICANSTUDY.md",
-    "02 - AREAS/COMPETITIVE PROGRAMING.md",
-    "03 - PROJECTS/Campinho digital/pre-estudo/M01 - CLOUD FOUNDATIONS.md",
-    "03 - PROJECTS/Campinho digital/pre-estudo/PRÉ-ESTUDO - AWS.md",
-    "03 - PROJECTS/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md",
-    "00 - MAP OF CONTENT/MOC - CAMPINHO DIGITAL.md",
-    "SISTEMA DE ESTUDO.md",
-    "PLANO DE TREINO.md",
-    "How to Train Yourself to Visualize Anything (6 Simple Tips & Habits).md",
-    "01 - REFERENCE NOTES/Video/Starting Competitive Programming - Steps and Mistakes.md",
-    "99 - meta/templates/new note (template).md",
-    "99 - meta/preloaded Classes/202401211512 Notebook CSS Classes.md",
-    "01 - REFERENCE NOTES/Cursos/ICS/revision.md",
-    "01 - REFERENCE NOTES/Cursos/ICS/study scheduling.md",
-    "ics technique/revisão.md",
     "01 - REFERENCE NOTES/Video",
     "02 - AREAS",
     "01 - REFERENCE NOTES/Cursos/ICS/BarghChartrand2000.pdf",
@@ -249,7 +251,6 @@
     "02 - permanent",
     "05 - projects/Campinho digital/pre-estudo",
     "05 - projects/CR6.100B",
-    "01 - REFERENCE NOTES/Livros/Como Ler Livros",
     "05 - projects/BuJo/TESTE.canvas",
     "99 - meta/Images/image_2021-06-21_12-33-11.png",
     "99 - meta/Images/Start With How To Read A Book v2.png",

@@ -2,7 +2,7 @@
 tags:
   - kolb
 created: 2024-04-04T21:05
-updated: 2024-08-01T16:00
+updated: 2024-08-02T08:28
 ---
 Quando usar? para melhorar seu estudo, suas técnicas de estudo
 
@@ -32,10 +32,10 @@ Quando usar? para melhorar seu estudo, suas técnicas de estudo
 ## ABSTRAÇÃO — extraia os padrões da reflexão e analise
 - Como **costumo** agir nessas situações?
 
-- O que em minha **abordagem**, **perspectiva** ou **estratégia** geral me tornou propenso a cometer esse erro?
+- O que em minha **abordagem**, **perspectiva** ou **estratégia** me tornou propenso a cometer esse erro?
 
 - Faço erros semelhantes em outras áreas também?
 
 - Que **hábitos** pareço ter em certos tipos de situações que me fazem agir, reagir ou comportar-se dessa maneira?
 
-## EXPERIMENTAÇÕES
+## EXPERIMENTAR

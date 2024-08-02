@@ -1,6 +1,6 @@
 ---
 created: 2024-07-30T16:15
-updated: 2024-07-30T16:21
+updated: 2024-08-02T08:00
 ---
 ## LIVROS
 ```dataview
@@ -9,7 +9,7 @@ TABLE WITHOUT ID
 	autor,
 	status,
 	tags as "tipo"
-FROM !"templates"
+FROM !"99 - meta"
 WHERE icontains(type, "livro")
 SORT file.name ASC
 ```

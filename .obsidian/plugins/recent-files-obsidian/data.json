@@ -1,36 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "kolbs (template)",
-      "path": "kolbs (template).md"
+      "basename": "Must Dos",
+      "path": "Must Dos.md"
     },
     {
-      "basename": "KOLB'S LEARNING CYCLE",
-      "path": "01 - REFERENCE NOTES/Cursos/ICS/KOLB'S LEARNING CYCLE.md"
+      "basename": "ICANSTUDY",
+      "path": "00 - MAP OF CONTENT/ICANSTUDY.md"
     },
     {
-      "basename": "MOC - FACULDADE",
-      "path": "00 - MAP OF CONTENT/MOC - FACULDADE.md"
+      "basename": "Tips and Tricks",
+      "path": "Tips and Tricks.md"
     },
     {
-      "basename": "00 - HOME",
-      "path": "00 - HOME.md"
+      "basename": "Current Gear",
+      "path": "Current Gear.md"
     },
     {
       "basename": "Right vs Wrong Way to Practice",
-      "path": "Right vs Wrong Way to Practice.md"
+      "path": "01 - REFERENCE NOTES/Cursos/ICS/Right vs Wrong Way to Practice.md"
+    },
+    {
+      "basename": "FACULDADE",
+      "path": "00 - MAP OF CONTENT/FACULDADE.md"
+    },
+    {
+      "basename": "LET110 - 2",
+      "path": "03 - PROJECTS/Faculdade/LET110 - 2.md"
+    },
+    {
+      "basename": "SOC100 - 2",
+      "path": "03 - PROJECTS/Faculdade/SOC100 - 2.md"
+    },
+    {
+      "basename": "disciplina (template)",
+      "path": "99 - meta/templates/disciplina (template).md"
+    },
+    {
+      "basename": "semana (template)",
+      "path": "99 - meta/templates/semana (template).md"
+    },
+    {
+      "basename": "LET110 - 1",
+      "path": "03 - PROJECTS/Faculdade/LET110 - 1.md"
+    },
+    {
+      "basename": "COM100 - 1",
+      "path": "03 - PROJECTS/Faculdade/COM100 - 1.md"
     },
     {
       "basename": "SOC100 - 1",
       "path": "03 - PROJECTS/Faculdade/SOC100 - 1.md"
     },
     {
+      "basename": "COM100 - 2",
+      "path": "03 - PROJECTS/Faculdade/COM100 - 2.md"
+    },
+    {
+      "basename": "SOC100",
+      "path": "03 - PROJECTS/Faculdade/SOC100.md"
+    },
+    {
+      "basename": "LET110",
+      "path": "03 - PROJECTS/Faculdade/LET110.md"
+    },
+    {
+      "basename": "kolb (template)",
+      "path": "99 - meta/templates/kolb (template).md"
+    },
+    {
       "basename": "COM100",
       "path": "03 - PROJECTS/Faculdade/COM100.md"
     },
     {
-      "basename": "LET110 - 1",
-      "path": "03 - PROJECTS/Faculdade/LET110 - 1.md"
+      "basename": "GEAR CHECKLIST",
+      "path": "GEAR CHECKLIST.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "LITERATURA",
+      "path": "02 - AREAS/LITERATURA.md"
+    },
+    {
+      "basename": "FILOSOFIA",
+      "path": "02 - AREAS/FILOSOFIA.md"
+    },
+    {
+      "basename": "MOC - PROJETOS",
+      "path": "00 - MAP OF CONTENT/MOC - PROJETOS.md"
+    },
+    {
+      "basename": "NFF",
+      "path": "00 - MAP OF CONTENT/NFF.md"
+    },
+    {
+      "basename": "PENSAMENTO CRÍTICO",
+      "path": "00 - MAP OF CONTENT/PENSAMENTO CRÍTICO.md"
+    },
+    {
+      "basename": "INVESTIMENTOS",
+      "path": "00 - MAP OF CONTENT/INVESTIMENTOS.md"
+    },
+    {
+      "basename": "CR6.100B",
+      "path": "00 - MAP OF CONTENT/CR6.100B.md"
+    },
+    {
+      "basename": "CAMPINHO DIGITAL",
+      "path": "00 - MAP OF CONTENT/CAMPINHO DIGITAL.md"
+    },
+    {
+      "basename": "SISTEMA DE ESTUDO",
+      "path": "+/SISTEMA DE ESTUDO.md"
     },
     {
       "basename": "CIÊNCIA DA COMPUTAÇÃO",
@@ -39,10 +123,6 @@
     {
       "basename": "spacing interleaving and retrieval",
       "path": "01 - REFERENCE NOTES/Cursos/ICS/spacing interleaving and retrieval.md"
-    },
-    {
-      "basename": "MOC - ICANSTUDY",
-      "path": "00 - MAP OF CONTENT/MOC - ICANSTUDY.md"
     },
     {
       "basename": "COMPETITIVE PROGRAMING",
@@ -61,16 +141,8 @@
       "path": "03 - PROJECTS/Campinho digital/pre-estudo/M00 - TECHNO FUNCTIONAL SOFT SKILLS.md"
     },
     {
-      "basename": "MOC - CAMPINHO DIGITAL",
-      "path": "00 - MAP OF CONTENT/MOC - CAMPINHO DIGITAL.md"
-    },
-    {
-      "basename": "SISTEMA DE ESTUDO",
-      "path": "SISTEMA DE ESTUDO.md"
-    },
-    {
       "basename": "PLANO DE TREINO",
-      "path": "PLANO DE TREINO.md"
+      "path": "+/PLANO DE TREINO.md"
     },
     {
       "basename": "Starting Competitive Programming - Steps and Mistakes",
@@ -101,48 +173,16 @@
       "path": "01 - REFERENCE NOTES/Cursos/ICS/Fundamentals 1.md"
     },
     {
-      "basename": "SOC100",
-      "path": "03 - PROJECTS/Faculdade/SOC100.md"
-    },
-    {
-      "basename": "LET110",
-      "path": "03 - PROJECTS/Faculdade/LET110.md"
-    },
-    {
-      "basename": "COM100 - 1",
-      "path": "03 - PROJECTS/Faculdade/COM100 - 1.md"
-    },
-    {
       "basename": "202403091325 General Tweaks CSS Classes",
       "path": "99 - meta/preloaded Classes/202403091325 General Tweaks CSS Classes.md"
-    },
-    {
-      "basename": "semana (template)",
-      "path": "99 - meta/templates/semana (template).md"
-    },
-    {
-      "basename": "conceitos",
-      "path": "conceitos.md"
-    },
-    {
-      "basename": "ED-202407301948.excalidraw",
-      "path": "ED-202407301948.excalidraw.md"
     },
     {
       "basename": "MATEMÁTICA",
       "path": "02 - AREAS/MATEMÁTICA.md"
     },
     {
-      "basename": "LITERATURA",
-      "path": "02 - AREAS/LITERATURA.md"
-    },
-    {
-      "basename": "MOC - CR6.100B",
-      "path": "00 - MAP OF CONTENT/MOC - CR6.100B.md"
-    },
-    {
       "basename": "Inglês",
-      "path": "Inglês.md"
+      "path": "+/Inglês.md"
     },
     {
       "basename": "dicas de interleaving",
@@ -153,52 +193,12 @@
       "path": "01 - REFERENCE NOTES/Cursos/ICS/como pré-estudar.md"
     },
     {
-      "basename": "MOC - FILOSOFIA",
-      "path": "00 - MAP OF CONTENT/MOC - FILOSOFIA.md"
-    },
-    {
       "basename": "CR6.100B - 0",
       "path": "03 - PROJECTS/CR6.100B/CR6.100B - 0.md"
     },
     {
       "basename": "Como ler Livros",
       "path": "01 - REFERENCE NOTES/Livros/Como Ler Livros/Como ler Livros.md"
-    },
-    {
-      "basename": "area (template)",
-      "path": "99 - meta/templates/area (template).md"
-    },
-    {
-      "basename": "in-class technique",
-      "path": "01 - REFERENCE NOTES/Cursos/ICS/in-class technique.md"
-    },
-    {
-      "basename": "note-taking",
-      "path": "01 - REFERENCE NOTES/Cursos/ICS/note-taking.md"
-    },
-    {
-      "basename": "cronograma de revisão",
-      "path": "01 - REFERENCE NOTES/Cursos/ICS/cronograma de revisão.md"
-    },
-    {
-      "basename": "técnicas de estudo",
-      "path": "ics technique/técnicas de estudo.md"
-    },
-    {
-      "basename": "livro (template)",
-      "path": "99 - meta/templates/livro (template).md"
-    },
-    {
-      "basename": "tipos de livros",
-      "path": "01 - REFERENCE NOTES/Livros/Como Ler Livros/tipos de livros.md"
-    },
-    {
-      "basename": "marginal gains",
-      "path": "01 - REFERENCE NOTES/Cursos/ICS/marginal gains.md"
-    },
-    {
-      "basename": "WHO AM I",
-      "path": "03 - PROJECTS/Campinho digital/pre-estudo/WHO AM I.md"
     }
   ],
   "omittedPaths": [],

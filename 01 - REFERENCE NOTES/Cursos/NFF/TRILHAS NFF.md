@@ -1,7 +1,7 @@
 ---
 created: 2024-07-29T10:00
-updated: 2024-07-29T10:01
-up: "[[MOC - NFF]]"
+updated: 2024-08-02T07:56
+up: "[[NFF]]"
 ---
 TRILHA DE FILOSOFIA
 - [[CURSO FILOSOFIA PRÁTICA]]

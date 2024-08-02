@@ -1,7 +1,15 @@
 ---
 created: 2024-07-10T08:13
-updated: 2024-08-01T15:51
-type: "[[index]]"
+updated: 2024-08-02T16:36
+up: "[[MOC - PROJETOS]]"
+tags:
+  - moc
+type:
+  - curso
+area:
+  - ciência da computação
+status:
+  - em andamento
 ---
 ## DISCIPLINAS ABERTAS
 ```dataview
@@ -19,12 +27,14 @@ SORT file.name ASC
 ```dataview
 TABLE WITHOUT ID
 	file.link as "Disciplina",
-	tema
+	tema,
+	inicio
 FROM "03 - PROJECTS"
-WHERE icontains(semana, "1")
+WHERE icontains(semana, "")
 AND icontains(status, "em andamento")
 SORT file.name ASC
 ```
+
 
 ## SEMANAS CONCLUIDAS
 ```dataview
@@ -43,6 +53,6 @@ TABLE WITHOUT ID
 	file.link as "Semana",
 	revisão
 FROM "03 - PROJECTS"
-WHERE icontains(revisado, "não") 
+WHERE icontains(revisão, "")
 SORT file.name ASC
 ```
