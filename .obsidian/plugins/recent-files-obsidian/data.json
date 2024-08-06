@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "LET110 - 2",
+      "path": "03 - PROJECTS/Faculdade/LET110 - 2.md"
+    },
+    {
+      "basename": "PRE-ESTUDO LET110",
+      "path": "PRE-ESTUDO LET110.md"
+    },
+    {
+      "basename": "FACULDADE",
+      "path": "00 - MAP OF CONTENT/FACULDADE.md"
+    },
+    {
+      "basename": "LET110 - 1",
+      "path": "03 - PROJECTS/Faculdade/LET110 - 1.md"
+    },
+    {
+      "basename": "LET110",
+      "path": "03 - PROJECTS/Faculdade/LET110.md"
+    },
+    {
       "basename": "Must Dos",
       "path": "Must Dos.md"
     },
@@ -21,14 +41,6 @@
       "path": "01 - REFERENCE NOTES/Cursos/ICS/Right vs Wrong Way to Practice.md"
     },
     {
-      "basename": "FACULDADE",
-      "path": "00 - MAP OF CONTENT/FACULDADE.md"
-    },
-    {
-      "basename": "LET110 - 2",
-      "path": "03 - PROJECTS/Faculdade/LET110 - 2.md"
-    },
-    {
       "basename": "SOC100 - 2",
       "path": "03 - PROJECTS/Faculdade/SOC100 - 2.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "semana (template)",
       "path": "99 - meta/templates/semana (template).md"
-    },
-    {
-      "basename": "LET110 - 1",
-      "path": "03 - PROJECTS/Faculdade/LET110 - 1.md"
     },
     {
       "basename": "COM100 - 1",
@@ -59,10 +67,6 @@
     {
       "basename": "SOC100",
       "path": "03 - PROJECTS/Faculdade/SOC100.md"
-    },
-    {
-      "basename": "LET110",
-      "path": "03 - PROJECTS/Faculdade/LET110.md"
     },
     {
       "basename": "kolb (template)",
@@ -195,10 +199,6 @@
     {
       "basename": "CR6.100B - 0",
       "path": "03 - PROJECTS/CR6.100B/CR6.100B - 0.md"
-    },
-    {
-      "basename": "Como ler Livros",
-      "path": "01 - REFERENCE NOTES/Livros/Como Ler Livros/Como ler Livros.md"
     }
   ],
   "omittedPaths": [],

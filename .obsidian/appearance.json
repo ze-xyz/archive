@@ -1,15 +1,15 @@
 {
   "accentColor": "#007aff",
   "cssTheme": "Minimal",
-  "textFontFamily": "Illinois Mono",
+  "textFontFamily": "JetBrains Mono Light",
   "enabledCssSnippets": [
     "Minimal"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 20,
+  "baseFontSize": 26,
   "interfaceFontFamily": "Readex Pro",
   "monospaceFontFamily": "Courier New",
   "nativeMenus": false,
   "showViewHeader": true,
-  "theme": "obsidian"
+  "theme": "moonstone"
 }

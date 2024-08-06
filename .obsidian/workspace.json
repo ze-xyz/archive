@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b910773ba29ffc6",
+        "id": "9b29144e10ed0467",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6bd241de55b974",
+            "id": "e14772ed38b4edbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - MAP OF CONTENT/ICANSTUDY.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "243149e7b4d45c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Must Dos.md",
+                "file": "03 - PROJECTS/Faculdade/LET110 - 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Must Dos.md"
+                "file": "03 - PROJECTS/Faculdade/LET110 - 2.md"
               }
             }
           },
@@ -123,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Must Dos.md",
+                "file": "03 - PROJECTS/Faculdade/LET110 - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Must Dos.md",
+                "file": "03 - PROJECTS/Faculdade/LET110 - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,24 +198,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "243149e7b4d45c38",
+  "active": "e14772ed38b4edbd",
   "lastOpenFiles": [
-    "00 - MAP OF CONTENT/ICANSTUDY.md",
+    "PRE-ESTUDO LET110.md",
+    "00 - MAP OF CONTENT/FACULDADE.md",
+    "03 - PROJECTS/Faculdade/LET110 - 2.md",
+    "03 - PROJECTS/Faculdade/LET110 - 1.md",
+    "03 - PROJECTS/Faculdade/LET110.md",
     "Must Dos.md",
+    "00 - MAP OF CONTENT/ICANSTUDY.md",
     "Tips and Tricks.md",
     "Current Gear.md",
     "01 - REFERENCE NOTES/Cursos/ICS/Right vs Wrong Way to Practice.md",
-    "00 - MAP OF CONTENT/FACULDADE.md",
-    "03 - PROJECTS/Faculdade/LET110 - 2.md",
     "03 - PROJECTS/Faculdade/SOC100 - 2.md",
     "99 - meta/templates/disciplina (template).md",
     "99 - meta/templates/semana (template).md",
-    "03 - PROJECTS/Faculdade/LET110 - 1.md",
     "03 - PROJECTS/Faculdade/COM100 - 1.md",
     "03 - PROJECTS/Faculdade/SOC100 - 1.md",
     "03 - PROJECTS/Faculdade/COM100 - 2.md",
     "03 - PROJECTS/Faculdade/SOC100.md",
-    "03 - PROJECTS/Faculdade/LET110.md",
     "99 - meta/templates/kolb (template).md",
     "03 - PROJECTS/Faculdade/COM100.md",
     "GEAR CHECKLIST.md",
@@ -240,7 +227,6 @@
     "+",
     "ED-202407301948.excalidraw.md",
     "conceitos.md",
-    "kolbs (template).md",
     "04 - KOLBS",
     "01 - REFERENCE NOTES/Video",
     "02 - AREAS",
