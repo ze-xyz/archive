@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b29144e10ed0467",
+        "id": "cc9210f9b64fcdaf",
         "type": "tabs",
         "children": [
           {
-            "id": "e14772ed38b4edbd",
+            "id": "946e29c77e902495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - PROJECTS/Faculdade/LET110 - 2.md",
+                "file": "APRESENTAÇÃO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - PROJECTS/Faculdade/LET110 - 2.md"
+                "file": "APRESENTAÇÃO.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - PROJECTS/Faculdade/LET110 - 2.md",
+                "file": "APRESENTAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - PROJECTS/Faculdade/LET110 - 2.md",
+                "file": "APRESENTAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,35 +198,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e14772ed38b4edbd",
+  "active": "946e29c77e902495",
   "lastOpenFiles": [
-    "PRE-ESTUDO LET110.md",
+    "HOME.md",
+    "APRESENTAÇÃO.md",
+    "Untitled",
+    "01 - REFERENCE NOTES/Cursos/ICS/GEAR CHECKLIST.md",
+    "CR6.100B - 1.md",
+    "01 - REFERENCE NOTES/Cursos/ICS/Current Gear.md",
+    "03 - PROJECTS/Faculdade/SOC100 - 2.md",
+    "Tips and Tricks.md",
+    "TRANSCENDENDO.md",
+    "00 - MAP OF CONTENT/CR6.100B.md",
+    "03 - PROJECTS/Faculdade/COM100 - 2.md",
     "00 - MAP OF CONTENT/FACULDADE.md",
     "03 - PROJECTS/Faculdade/LET110 - 2.md",
+    "PRE-ESTUDO LET110.md",
     "03 - PROJECTS/Faculdade/LET110 - 1.md",
     "03 - PROJECTS/Faculdade/LET110.md",
     "Must Dos.md",
     "00 - MAP OF CONTENT/ICANSTUDY.md",
-    "Tips and Tricks.md",
-    "Current Gear.md",
     "01 - REFERENCE NOTES/Cursos/ICS/Right vs Wrong Way to Practice.md",
-    "03 - PROJECTS/Faculdade/SOC100 - 2.md",
     "99 - meta/templates/disciplina (template).md",
     "99 - meta/templates/semana (template).md",
     "03 - PROJECTS/Faculdade/COM100 - 1.md",
     "03 - PROJECTS/Faculdade/SOC100 - 1.md",
-    "03 - PROJECTS/Faculdade/COM100 - 2.md",
     "03 - PROJECTS/Faculdade/SOC100.md",
     "99 - meta/templates/kolb (template).md",
     "03 - PROJECTS/Faculdade/COM100.md",
-    "GEAR CHECKLIST.md",
-    "HOME.md",
     "02 - AREAS/LITERATURA.md",
-    "02 - AREAS/FILOSOFIA.md",
-    "00 - MAP OF CONTENT/MOC - PROJETOS.md",
     "+",
-    "ED-202407301948.excalidraw.md",
-    "conceitos.md",
     "04 - KOLBS",
     "01 - REFERENCE NOTES/Video",
     "02 - AREAS",
@@ -236,7 +237,6 @@
     "ics technique",
     "02 - permanent",
     "05 - projects/Campinho digital/pre-estudo",
-    "05 - projects/CR6.100B",
     "05 - projects/BuJo/TESTE.canvas",
     "99 - meta/Images/image_2021-06-21_12-33-11.png",
     "99 - meta/Images/Start With How To Read A Book v2.png",

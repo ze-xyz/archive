@@ -1,6 +1,6 @@
 ---
 created: 2024-07-10T08:13
-updated: 2024-08-02T16:36
+updated: 2024-08-07T07:17
 up: "[[MOC - PROJETOS]]"
 tags:
   - moc
@@ -42,7 +42,7 @@ TABLE WITHOUT ID
 	file.link as "Disciplina",
 	tema
 FROM "03 - PROJECTS"
-WHERE icontains(semana, "1")
+WHERE icontains(semana, "")
 AND icontains(status, "concluído")
 SORT file.name ASC
 ```

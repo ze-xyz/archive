@@ -1,13 +1,13 @@
 {
   "accentColor": "#007aff",
   "cssTheme": "Minimal",
-  "textFontFamily": "JetBrains Mono Light",
+  "textFontFamily": "Readex Pro Light",
   "enabledCssSnippets": [
     "Minimal"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 26,
-  "interfaceFontFamily": "Readex Pro",
+  "baseFontSize": 30,
+  "interfaceFontFamily": "SF Mono Light",
   "monospaceFontFamily": "Courier New",
   "nativeMenus": false,
   "showViewHeader": true,

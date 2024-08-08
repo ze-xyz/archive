@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "APRESENTAÇÃO",
+      "path": "APRESENTAÇÃO.md"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
+      "basename": "GEAR CHECKLIST",
+      "path": "01 - REFERENCE NOTES/Cursos/ICS/GEAR CHECKLIST.md"
+    },
+    {
+      "basename": "Current Gear",
+      "path": "01 - REFERENCE NOTES/Cursos/ICS/Current Gear.md"
+    },
+    {
+      "basename": "SOC100 - 2",
+      "path": "03 - PROJECTS/Faculdade/SOC100 - 2.md"
+    },
+    {
+      "basename": "CR6.100B",
+      "path": "00 - MAP OF CONTENT/CR6.100B.md"
+    },
+    {
+      "basename": "COM100 - 2",
+      "path": "03 - PROJECTS/Faculdade/COM100 - 2.md"
+    },
+    {
+      "basename": "FACULDADE",
+      "path": "00 - MAP OF CONTENT/FACULDADE.md"
+    },
+    {
       "basename": "LET110 - 2",
       "path": "03 - PROJECTS/Faculdade/LET110 - 2.md"
     },
     {
       "basename": "PRE-ESTUDO LET110",
       "path": "PRE-ESTUDO LET110.md"
-    },
-    {
-      "basename": "FACULDADE",
-      "path": "00 - MAP OF CONTENT/FACULDADE.md"
     },
     {
       "basename": "LET110 - 1",
@@ -29,20 +57,8 @@
       "path": "00 - MAP OF CONTENT/ICANSTUDY.md"
     },
     {
-      "basename": "Tips and Tricks",
-      "path": "Tips and Tricks.md"
-    },
-    {
-      "basename": "Current Gear",
-      "path": "Current Gear.md"
-    },
-    {
       "basename": "Right vs Wrong Way to Practice",
       "path": "01 - REFERENCE NOTES/Cursos/ICS/Right vs Wrong Way to Practice.md"
-    },
-    {
-      "basename": "SOC100 - 2",
-      "path": "03 - PROJECTS/Faculdade/SOC100 - 2.md"
     },
     {
       "basename": "disciplina (template)",
@@ -61,10 +77,6 @@
       "path": "03 - PROJECTS/Faculdade/SOC100 - 1.md"
     },
     {
-      "basename": "COM100 - 2",
-      "path": "03 - PROJECTS/Faculdade/COM100 - 2.md"
-    },
-    {
       "basename": "SOC100",
       "path": "03 - PROJECTS/Faculdade/SOC100.md"
     },
@@ -75,14 +87,6 @@
     {
       "basename": "COM100",
       "path": "03 - PROJECTS/Faculdade/COM100.md"
-    },
-    {
-      "basename": "GEAR CHECKLIST",
-      "path": "GEAR CHECKLIST.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME.md"
     },
     {
       "basename": "LITERATURA",
@@ -107,10 +111,6 @@
     {
       "basename": "INVESTIMENTOS",
       "path": "00 - MAP OF CONTENT/INVESTIMENTOS.md"
-    },
-    {
-      "basename": "CR6.100B",
-      "path": "00 - MAP OF CONTENT/CR6.100B.md"
     },
     {
       "basename": "CAMPINHO DIGITAL",
@@ -191,14 +191,6 @@
     {
       "basename": "dicas de interleaving",
       "path": "01 - REFERENCE NOTES/Cursos/ICS/dicas de interleaving.md"
-    },
-    {
-      "basename": "como pré-estudar",
-      "path": "01 - REFERENCE NOTES/Cursos/ICS/como pré-estudar.md"
-    },
-    {
-      "basename": "CR6.100B - 0",
-      "path": "03 - PROJECTS/CR6.100B/CR6.100B - 0.md"
     }
   ],
   "omittedPaths": [],

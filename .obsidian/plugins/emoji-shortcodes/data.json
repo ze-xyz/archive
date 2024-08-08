@@ -4,6 +4,10 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":thumbsdown:",
+    ":thumbsup:",
+    ":negative_squared_cross_mark:",
+    ":heavy_check_mark:",
     ":red_square:",
     ":green_square:"
   ]
